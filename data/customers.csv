@@ -1,0 +1,1001 @@
+customer_id,name,age,gender,income,city,signup_date,support_tickets,engagement_score,email_opt_in,satisfaction_rating
+CUST00001,Michael Thompson,36,Male,87331.41,Toronto,2023-10-31,3,9.2,1,4.3
+CUST00002,Noah Moore,47,Male,33025.95,Chicago,2022-06-26,0,21.3,1,3.2
+CUST00003,David Davis,24,Male,60718.37,Toronto,2023-01-26,1,56.4,1,3.1
+CUST00004,Noah Patel,27,Female,38620.07,Phoenix,2021-10-01,0,73.0,0,3.8
+CUST00005,Michael Perez,58,Male,15000.0,Sydney,2023-08-14,0,24.2,1,3.9
+CUST00006,Wei Wilson,49,Female,54020.7,Los Angeles,2022-08-23,0,44.7,0,2.9
+CUST00007,David Khan,51,Male,55620.46,Mumbai,2022-01-16,1,74.7,1,4.3
+CUST00008,Arjun Brown,45,Other,67470.44,Houston,2024-09-14,0,23.2,0,3.5
+CUST00009,Linda Khan,32,Male,50649.19,Austin,2022-04-24,1,52.0,0,4.7
+CUST00010,John Kim,47,Male,25219.99,Los Angeles,2021-01-15,0,33.3,1,3.7
+CUST00011,Arjun Johnson,54,Male,38551.37,Los Angeles,2022-05-31,4,21.5,0,3.6
+CUST00012,Mei Anderson,46,Female,81339.18,Delhi,2021-07-10,1,38.2,1,2.9
+CUST00013,Emma Garcia,39,Female,38267.44,San Diego,2024-04-06,0,64.7,1,3.0
+CUST00014,Mary Patel,21,Female,86664.51,New York,2022-09-13,0,15.7,1,4.9
+CUST00015,James Anderson,37,Male,75999.69,Sydney,2024-03-06,1,57.5,0,3.9
+CUST00016,Sofia Kim,49,Male,48644.39,Sydney,2021-06-03,1,75.7,0,4.1
+CUST00017,Noah Anderson,53,Female,40418.42,Sydney,2024-11-12,3,51.5,1,5.0
+CUST00018,Hiro Martin,67,Male,75958.26,London,2024-05-17,2,66.0,0,2.5
+CUST00019,Liam Martinez,21,Male,50181.78,San Antonio,2021-09-29,1,43.9,1,4.3
+CUST00020,Olivia Jackson,44,Other,24087.0,Phoenix,2021-05-23,2,83.2,0,2.3
+CUST00021,Joseph Moore,34,Other,66246.33,Toronto,2023-12-29,0,38.1,1,3.3
+CUST00022,Emma Perez,29,Female,63345.27,Mumbai,2021-09-04,2,76.6,1,2.7
+CUST00023,Barbara Nguyen,39,Female,77754.12,San Diego,2024-07-08,3,65.4,1,4.5
+CUST00024,Karen Silva,34,Male,61991.9,New York,2023-02-27,0,81.7,1,2.0
+CUST00025,John Jones,27,Male,44017.06,Mumbai,2021-03-20,2,9.6,1,3.5
+CUST00026,Charles Miller,18,Female,80393.58,San Antonio,2022-09-15,0,21.3,1,2.7
+CUST00027,Arjun Rodriguez,39,Female,82339.81,Phoenix,2022-06-09,0,46.8,1,2.9
+CUST00028,Michael Lee,43,Male,59664.12,Houston,2023-02-11,1,22.9,0,3.1
+CUST00029,Patricia Silva,35,Male,56206.44,San Antonio,2023-07-27,1,72.3,1,4.9
+CUST00030,Olivia Thomas,67,Male,28534.58,Austin,2024-09-15,3,67.6,0,3.4
+CUST00031,Sarah Rodriguez,31,Female,42849.47,Toronto,2024-04-27,3,47.8,1,5.0
+CUST00032,Sofia Patel,64,Female,70215.39,Los Angeles,2024-01-24,0,39.2,1,5.0
+CUST00033,Mary Thompson,46,Female,43854.39,Delhi,2022-09-09,0,28.1,1,5.0
+CUST00034,Olivia Moore,29,Male,25863.24,Toronto,2023-10-29,2,33.0,0,3.6
+CUST00035,Olivia Miller,53,Other,124917.56,New York,2021-03-08,1,15.2,0,3.9
+CUST00036,Barbara Davis,52,Female,25731.88,New York,2021-07-10,0,57.2,1,4.0
+CUST00037,Joseph Williams,69,Male,100135.03,Mumbai,2024-10-21,1,34.9,1,3.4
+CUST00038,Susan Martin,29,Male,48851.53,Delhi,2023-02-07,1,36.4,1,4.1
+CUST00039,Patricia Lee,24,Male,53308.74,Sydney,2022-06-05,1,16.0,1,2.9
+CUST00040,Linda Brown,46,Male,41554.43,New York,2023-09-17,3,36.5,0,2.0
+CUST00041,Mary Garcia,28,Female,70656.74,Toronto,2024-02-15,0,84.0,1,4.3
+CUST00042,Priya Martinez,50,Male,26204.52,Delhi,2021-09-24,0,6.2,1,3.4
+CUST00043,Patricia Kim,23,Female,18193.42,Phoenix,2022-04-30,0,9.2,0,2.8
+CUST00044,Noah Lee,64,Male,87203.43,Austin,2024-08-14,2,49.5,0,2.9
+CUST00045,Sofia Anderson,32,Male,38920.55,San Antonio,2024-04-02,0,17.8,1,5.0
+CUST00046,Mary Martinez,49,Male,69921.76,Los Angeles,2022-01-11,1,64.8,1,4.1
+CUST00047,Emma Brown,68,Male,33290.88,Austin,2022-10-15,2,52.1,1,2.3
+CUST00048,Susan Jackson,28,Female,69168.42,San Diego,2024-07-15,1,67.5,1,2.6
+CUST00049,Joseph Davis,40,Female,88670.93,Houston,2022-07-03,3,59.6,1,3.4
+CUST00050,Susan Nguyen,43,Female,44457.57,Delhi,2024-01-03,1,32.3,0,4.1
+CUST00051,Olivia Silva,51,Female,16331.18,Chicago,2021-03-14,1,12.9,0,3.0
+CUST00052,Emma Davis,63,Male,88775.88,Austin,2021-11-04,2,72.9,1,3.5
+CUST00053,Arjun Jackson,51,Male,73524.89,Mumbai,2021-07-18,1,63.4,1,3.8
+CUST00054,Richard Lee,46,Male,45528.58,San Diego,2024-02-28,4,35.5,1,3.8
+CUST00055,Joseph Patel,21,Female,50640.96,Los Angeles,2022-07-26,1,71.2,1,1.5
+CUST00056,Mei Silva,34,Male,32786.96,Mumbai,2023-03-02,1,65.8,1,3.9
+CUST00057,Olivia Taylor,52,Male,83405.14,Mumbai,2024-03-20,0,67.4,1,2.1
+CUST00058,William Moore,30,Female,44305.69,Bangalore,2024-05-14,0,54.2,1,3.4
+CUST00059,Richard Smith,58,Male,26625.83,Chicago,2021-06-28,0,47.6,1,3.2
+CUST00060,Hiro Miller,56,Male,59272.92,Delhi,2021-07-16,2,79.3,1,2.7
+CUST00061,William Khan,32,Male,37799.73,Chicago,2023-01-05,1,62.6,1,4.5
+CUST00062,James Anderson,46,Female,34399.71,Austin,2021-03-30,1,57.8,1,2.7
+CUST00063,Linda Khan,46,Female,46398.02,Mumbai,2023-03-10,3,68.5,1,3.2
+CUST00064,David Perez,28,Female,56727.11,New York,2024-12-28,3,78.8,1,4.5
+CUST00065,Thomas Davis,69,Male,27377.8,Philadelphia,2023-02-27,2,29.7,1,3.2
+CUST00066,John Williams,49,Other,82702.98,Los Angeles,2023-01-18,0,70.7,1,3.0
+CUST00067,James Jones,19,Female,68543.19,New York,2024-04-21,2,82.2,0,3.5
+CUST00068,Elizabeth Miller,64,Male,47692.74,Sydney,2021-07-28,1,67.8,1,4.2
+CUST00069,Sofia Rodriguez,31,Female,36933.13,Los Angeles,2022-05-08,0,54.2,1,5.0
+CUST00070,Olivia Miller,37,Male,53215.49,Delhi,2024-02-28,0,80.4,1,2.9
+CUST00071,William Davis,39,Female,72988.7,Philadelphia,2022-10-27,0,26.8,1,2.9
+CUST00072,Barbara Johnson,28,Female,69891.68,London,2023-11-03,1,30.0,0,3.5
+CUST00073,James Jackson,44,Male,76170.09,Houston,2023-05-21,0,83.5,0,3.9
+CUST00074,Wei Nguyen,20,Other,45392.45,Philadelphia,2023-01-02,0,37.4,1,3.0
+CUST00075,Emma Khan,34,Female,15000.0,Delhi,2024-02-04,0,73.7,1,4.3
+CUST00076,Robert Williams,61,Female,79956.22,Dallas,2024-10-30,0,26.7,1,2.9
+CUST00077,Barbara Davis,45,Male,51656.08,Sydney,2022-11-29,1,81.6,1,2.0
+CUST00078,Priya Williams,46,Male,68323.32,Bangalore,2024-01-28,2,74.2,1,4.2
+CUST00079,James Williams,38,Male,88384.58,Austin,2022-08-17,1,67.9,1,4.3
+CUST00080,Robert Moore,64,Female,103688.17,Delhi,2023-06-05,0,50.3,1,4.6
+CUST00081,Susan Williams,33,Male,42003.57,Austin,2023-05-02,0,82.4,1,1.9
+CUST00082,James Jones,54,Female,57679.2,San Diego,2024-04-30,1,62.1,0,3.1
+CUST00083,Sofia Nguyen,37,Female,82336.73,New York,2021-11-21,1,25.6,1,3.5
+CUST00084,Susan Miller,23,Male,38114.42,Bangalore,2023-09-06,1,86.5,1,5.0
+CUST00085,Liam Rodriguez,36,Female,43357.77,San Diego,2023-08-14,1,78.3,1,3.6
+CUST00086,Joseph Moore,22,Male,43239.23,Dallas,2023-06-13,0,32.7,1,2.5
+CUST00087,Sofia Martinez,20,Other,54438.19,Philadelphia,2024-10-22,0,63.8,0,4.0
+CUST00088,Olivia Taylor,18,Female,50597.53,Austin,2024-09-03,0,45.1,1,4.9
+CUST00089,Charles Miller,55,Male,43124.09,Toronto,2021-05-24,2,68.2,0,4.7
+CUST00090,Thomas Thompson,32,Male,35684.85,Phoenix,2022-01-19,3,70.9,1,4.2
+CUST00091,Noah Brown,51,Male,71238.81,Philadelphia,2021-08-04,2,5.7,0,3.9
+CUST00092,Emma Jones,52,Female,81756.62,Sydney,2024-10-16,1,11.6,0,1.7
+CUST00093,Wei Miller,66,Female,84654.3,Bangalore,2021-11-20,0,11.8,1,3.7
+CUST00094,Richard Moore,42,Female,45378.53,Philadelphia,2023-11-05,2,29.6,1,3.9
+CUST00095,David Brown,41,Male,72074.49,Dallas,2021-08-05,2,78.9,0,3.6
+CUST00096,Richard Miller,29,Male,59726.52,Houston,2023-08-09,2,20.2,1,4.3
+CUST00097,Liam Perez,35,Male,43586.57,Los Angeles,2021-07-02,1,69.6,1,3.5
+CUST00098,Priya Johnson,32,Female,69684.36,Mumbai,2021-09-27,0,97.0,1,3.4
+CUST00099,Elizabeth Taylor,61,Female,42667.9,Mumbai,2023-08-03,0,27.2,1,4.6
+CUST00100,Emma Silva,33,Male,47476.47,Dallas,2023-05-20,0,62.4,1,3.3
+CUST00101,Arjun Garcia,44,Male,27465.41,Sydney,2022-04-12,0,59.2,1,3.8
+CUST00102,Olivia Anderson,25,Female,45715.58,Los Angeles,2021-11-01,0,31.3,1,4.5
+CUST00103,Barbara Thompson,63,Female,60077.22,Sydney,2024-03-13,1,93.4,1,2.8
+CUST00104,Emma Wilson,42,Female,86378.69,Austin,2021-04-21,1,67.5,0,2.7
+CUST00105,Sofia Nguyen,34,Female,47930.09,Dallas,2023-10-11,2,36.6,1,4.9
+CUST00106,Olivia Silva,46,Male,34236.62,Los Angeles,2021-08-20,3,88.1,0,3.2
+CUST00107,Michael Smith,25,Male,84947.38,Delhi,2022-08-18,2,50.9,0,4.3
+CUST00108,James Silva,32,Female,44908.95,San Diego,2024-07-20,0,28.0,0,2.1
+CUST00109,Liam Silva,44,Female,20032.37,Dallas,2021-06-22,2,16.6,0,1.4
+CUST00110,Karen Taylor,63,Male,57661.87,Delhi,2023-08-31,0,32.3,0,4.0
+CUST00111,William Williams,67,Female,48504.53,Austin,2023-10-28,2,42.3,0,3.6
+CUST00112,Michael Garcia,69,Female,101007.91,Dallas,2024-03-24,1,36.2,1,4.0
+CUST00113,Linda Rodriguez,24,Female,64507.32,Austin,2022-06-30,2,37.6,1,5.0
+CUST00114,Emma Jones,20,Female,52073.15,Sydney,2022-07-02,2,27.3,0,2.6
+CUST00115,James Perez,46,Male,36510.06,Dallas,2022-06-02,0,42.7,1,3.7
+CUST00116,Elizabeth Anderson,61,Female,61603.34,Los Angeles,2023-07-03,1,74.9,0,5.0
+CUST00117,Mei Moore,41,Female,84134.2,Sydney,2021-08-03,0,56.4,0,2.7
+CUST00118,Liam Kim,20,Female,61236.28,Houston,2021-05-14,1,42.6,1,3.2
+CUST00119,Mei Rodriguez,37,Female,38051.41,San Antonio,2021-10-12,1,52.1,0,2.1
+CUST00120,Karen Martin,63,Female,65776.12,Delhi,2024-02-24,2,84.2,1,5.0
+CUST00121,Emma Martin,32,Male,54027.86,Los Angeles,2022-11-17,1,20.8,1,1.7
+CUST00122,Sofia Thompson,42,Female,63972.26,New York,2024-03-21,3,85.0,1,4.4
+CUST00123,Barbara Miller,47,Female,47903.85,Chicago,2021-11-27,1,54.3,1,2.5
+CUST00124,Mary Williams,31,Female,47434.09,Delhi,2024-11-07,1,48.2,1,2.8
+CUST00125,Thomas Jones,24,Female,46644.4,Houston,2024-02-13,1,21.6,1,4.7
+CUST00126,Thomas Khan,34,Female,73844.76,San Diego,2023-06-13,1,76.9,1,3.0
+CUST00127,Thomas Martin,61,Male,47635.49,Philadelphia,2024-07-31,1,47.7,0,4.3
+CUST00128,Mary Johnson,37,Female,45805.39,Mumbai,2023-06-18,0,47.4,1,4.9
+CUST00129,Olivia Kim,53,Male,36158.68,Los Angeles,2024-01-04,3,80.7,1,3.9
+CUST00130,Wei Jones,26,Male,64080.28,Toronto,2024-04-04,0,49.6,1,4.5
+CUST00131,James Smith,55,Female,61234.04,Dallas,2024-04-27,2,54.4,0,3.8
+CUST00132,Charles Johnson,65,Female,46024.64,London,2021-03-19,5,52.7,0,3.8
+CUST00133,Arjun Anderson,39,Male,40812.43,Los Angeles,2023-08-05,0,39.9,1,3.1
+CUST00134,Sofia Garcia,19,Male,92523.47,Bangalore,2022-11-19,2,76.5,1,5.0
+CUST00135,Wei Brown,41,Female,17391.14,Toronto,2021-01-21,1,55.6,0,4.4
+CUST00136,Wei Wilson,25,Male,64863.44,Delhi,2022-07-20,1,43.4,1,4.2
+CUST00137,Mei Martin,28,Male,80828.07,Phoenix,2024-04-22,0,7.8,1,4.4
+CUST00138,Jennifer Khan,30,Male,15000.0,Delhi,2024-05-30,2,78.0,1,3.1
+CUST00139,Robert Thompson,34,Male,70882.8,Houston,2023-04-07,2,39.8,1,4.5
+CUST00140,Mary Garcia,25,Male,50594.91,Bangalore,2024-09-13,0,88.5,0,5.0
+CUST00141,Priya Wilson,38,Male,60121.1,San Antonio,2021-06-28,1,65.3,1,2.5
+CUST00142,Jessica Jackson,35,Male,48535.24,San Diego,2024-02-10,1,71.9,1,4.2
+CUST00143,James Rodriguez,47,Female,76507.87,Phoenix,2023-12-19,1,37.6,1,3.8
+CUST00144,Olivia Garcia,35,Female,62262.39,Austin,2024-09-12,1,70.3,0,3.2
+CUST00145,Jessica Williams,63,Female,57634.4,London,2023-06-24,0,71.6,0,2.7
+CUST00146,Karen Brown,64,Male,37022.79,London,2022-10-31,1,53.0,0,4.6
+CUST00147,Charles Williams,48,Male,92645.84,Phoenix,2021-07-10,1,29.7,1,3.9
+CUST00148,Charles Thompson,55,Female,55198.62,Los Angeles,2024-05-08,1,19.9,1,3.5
+CUST00149,Michael Thompson,49,Male,100796.12,San Diego,2024-08-28,1,32.0,0,4.2
+CUST00150,William Smith,28,Female,93551.39,London,2022-12-09,0,28.9,1,3.6
+CUST00151,Linda Miller,62,Female,19432.98,Los Angeles,2023-11-25,2,6.8,0,3.1
+CUST00152,Sarah Davis,42,Female,41901.08,Sydney,2022-01-14,1,18.5,1,3.8
+CUST00153,James Wilson,50,Male,34260.98,Austin,2022-01-22,1,50.7,1,3.7
+CUST00154,Olivia Silva,55,Male,54035.88,Delhi,2021-08-25,2,24.7,1,2.1
+CUST00155,Hiro Lee,58,Female,58743.28,Philadelphia,2022-09-08,0,80.8,0,3.1
+CUST00156,Wei Martinez,25,Male,59598.53,San Diego,2021-10-10,2,48.3,0,2.6
+CUST00157,John Miller,28,Female,76082.57,Philadelphia,2021-01-01,0,26.6,1,2.2
+CUST00158,Olivia Jackson,39,Female,84871.66,Houston,2022-04-09,1,63.0,1,4.1
+CUST00159,Sofia Jackson,68,Other,74349.75,Bangalore,2024-06-07,2,82.3,0,3.1
+CUST00160,Hiro Thompson,41,Male,43781.3,Houston,2023-08-25,2,72.3,1,4.6
+CUST00161,Olivia Martin,58,Female,39359.52,Philadelphia,2021-06-21,2,43.4,0,2.1
+CUST00162,Mary Smith,34,Female,55055.24,London,2024-01-16,1,20.0,1,3.4
+CUST00163,Jessica Anderson,29,Male,63522.39,Toronto,2024-02-21,2,25.0,1,3.1
+CUST00164,Robert Jones,63,Male,51336.17,Sydney,2023-04-23,3,92.1,1,2.3
+CUST00165,Liam Nguyen,49,Female,28090.3,Bangalore,2024-08-14,1,27.6,1,3.7
+CUST00166,William Rodriguez,32,Male,68641.19,Houston,2022-11-21,2,81.6,1,2.4
+CUST00167,John Perez,33,Male,47153.7,San Diego,2022-07-29,1,36.0,1,3.9
+CUST00168,Jessica Jackson,39,Male,46549.75,Dallas,2021-06-14,4,66.1,1,4.3
+CUST00169,John Thompson,45,Female,53907.75,Sydney,2022-01-18,0,72.5,1,3.9
+CUST00170,Mei Kim,37,Female,50202.02,New York,2021-07-28,1,54.8,1,4.1
+CUST00171,Mei Smith,50,Female,47669.98,Bangalore,2024-12-26,0,75.1,0,4.6
+CUST00172,Mei Thompson,27,Male,29397.49,Houston,2024-11-13,0,66.7,1,3.7
+CUST00173,David Martin,57,Male,52755.05,Houston,2021-08-12,3,58.3,1,3.0
+CUST00174,Linda Brown,49,Female,69059.08,Los Angeles,2021-01-03,0,36.5,1,3.2
+CUST00175,Jennifer Davis,67,Female,60292.88,Philadelphia,2022-01-07,3,21.5,1,3.2
+CUST00176,Karen Williams,50,Male,73962.43,Chicago,2022-09-03,0,18.3,0,2.8
+CUST00177,Jessica Silva,19,Female,40429.1,San Antonio,2021-04-26,0,14.5,1,4.4
+CUST00178,John Silva,50,Other,29438.83,Sydney,2024-07-17,3,65.7,0,4.2
+CUST00179,Noah Lee,50,Female,50083.0,Bangalore,2022-03-23,2,31.6,1,2.2
+CUST00180,Susan Lee,58,Female,42715.27,Mumbai,2024-10-23,2,56.4,1,3.0
+CUST00181,Mary Kim,30,Female,44793.3,Sydney,2024-06-30,5,53.3,1,2.7
+CUST00182,John Jackson,47,Male,59234.99,Mumbai,2024-09-02,1,68.8,0,4.0
+CUST00183,Noah Rodriguez,50,Female,44938.39,Phoenix,2022-02-19,1,20.6,0,4.7
+CUST00184,Patricia Smith,30,Other,29998.63,Houston,2024-01-24,0,37.7,1,4.1
+CUST00185,Patricia Smith,69,Male,43820.11,Phoenix,2023-06-11,0,24.9,0,3.1
+CUST00186,Susan Patel,43,Female,61801.19,San Diego,2023-11-14,0,44.2,1,3.4
+CUST00187,Jessica Thompson,39,Female,68429.61,Chicago,2022-10-25,4,51.5,0,2.4
+CUST00188,Mei Davis,56,Female,68228.46,London,2023-12-10,2,53.8,1,2.5
+CUST00189,Michael Williams,19,Female,63489.46,San Antonio,2022-12-19,0,38.4,1,4.5
+CUST00190,Thomas Smith,55,Female,51638.13,Toronto,2024-09-20,2,52.8,1,5.0
+CUST00191,Jessica Anderson,56,Female,63098.28,London,2024-01-08,1,91.0,0,3.1
+CUST00192,Liam Perez,43,Male,54153.29,Philadelphia,2023-11-17,0,28.5,0,3.7
+CUST00193,Priya Nguyen,63,Female,57261.92,Delhi,2021-09-28,1,22.5,0,4.3
+CUST00194,Priya Thomas,67,Male,36213.47,Sydney,2022-07-16,2,20.0,0,2.2
+CUST00195,Emma Garcia,32,Male,55877.5,New York,2023-03-15,2,53.9,1,2.8
+CUST00196,Jennifer Taylor,51,Male,62573.32,Bangalore,2021-09-04,4,43.5,0,5.0
+CUST00197,Charles Kim,59,Female,61822.55,San Antonio,2022-01-22,2,76.9,0,2.8
+CUST00198,Linda Johnson,61,Male,29249.62,London,2022-12-03,0,49.9,1,3.4
+CUST00199,Arjun Smith,66,Female,56925.22,Bangalore,2022-07-13,1,99.5,1,3.2
+CUST00200,Olivia Moore,57,Female,26122.21,San Antonio,2023-08-31,0,49.6,1,1.9
+CUST00201,James Jones,28,Female,58473.53,London,2024-10-16,2,72.9,0,3.8
+CUST00202,Olivia Jackson,20,Male,40973.26,Sydney,2023-09-11,3,71.3,0,3.7
+CUST00203,Charles Brown,23,Female,89112.86,Toronto,2021-12-18,4,19.6,0,3.9
+CUST00204,John Martin,26,Female,57384.87,Delhi,2024-07-03,0,31.9,0,3.6
+CUST00205,Thomas Anderson,23,Female,71023.28,New York,2024-05-30,1,59.1,0,3.3
+CUST00206,Olivia Thomas,26,Male,97217.45,Dallas,2023-01-23,2,18.0,0,3.2
+CUST00207,Arjun Garcia,56,Male,38651.96,Philadelphia,2023-02-20,1,67.9,0,3.2
+CUST00208,John Rodriguez,48,Male,63713.5,Toronto,2023-10-22,1,32.0,1,2.8
+CUST00209,Robert Khan,49,Male,31281.78,Delhi,2022-06-30,1,50.2,1,2.9
+CUST00210,Noah Martin,58,Male,61897.94,Los Angeles,2021-03-20,0,26.2,1,2.8
+CUST00211,Susan Patel,67,Female,90314.19,Phoenix,2024-06-13,3,44.9,0,4.2
+CUST00212,John Smith,29,Male,42442.34,Bangalore,2021-11-30,1,36.8,1,4.0
+CUST00213,Karen Patel,25,Male,37280.91,Mumbai,2023-06-08,0,30.5,1,3.7
+CUST00214,Wei Smith,25,Male,53176.52,Houston,2024-10-04,1,86.7,1,5.0
+CUST00215,John Lee,67,Male,95916.35,San Antonio,2024-01-27,1,91.5,1,2.9
+CUST00216,Hiro Martinez,45,Male,70420.78,San Diego,2024-01-11,2,66.8,1,4.7
+CUST00217,Priya Williams,37,Male,36901.71,Sydney,2022-05-17,1,61.3,1,3.5
+CUST00218,Linda Thomas,64,Male,84101.21,Mumbai,2023-02-04,1,26.6,1,3.8
+CUST00219,Mei Lee,24,Female,21898.74,London,2023-07-10,2,37.0,1,4.3
+CUST00220,Joseph Kim,28,Other,97731.18,Toronto,2022-07-04,0,72.6,1,3.3
+CUST00221,Wei Johnson,37,Male,72129.01,Mumbai,2021-01-14,1,50.3,1,2.7
+CUST00222,Liam Martinez,33,Male,90271.15,New York,2022-01-27,2,51.9,1,2.9
+CUST00223,Mary Martin,21,Female,22044.04,Phoenix,2024-10-02,4,49.5,1,1.8
+CUST00224,Linda Smith,23,Male,58388.84,Toronto,2021-11-06,0,40.2,1,4.2
+CUST00225,William Wilson,39,Male,52322.22,Chicago,2022-01-21,2,55.5,1,4.2
+CUST00226,Priya Jackson,43,Female,34860.41,New York,2024-05-17,2,65.0,0,5.0
+CUST00227,Michael Martinez,20,Male,29079.53,Delhi,2024-10-12,1,6.8,1,4.1
+CUST00228,Wei Williams,58,Female,65141.63,Chicago,2023-09-01,1,71.2,1,4.3
+CUST00229,Sarah Silva,59,Female,66954.63,London,2024-01-23,1,71.6,1,3.6
+CUST00230,Mei Taylor,31,Male,80999.48,Philadelphia,2024-01-22,2,24.7,1,4.1
+CUST00231,Olivia Miller,28,Male,44931.58,London,2021-12-06,1,45.7,1,4.7
+CUST00232,Hiro Brown,35,Female,52167.8,San Antonio,2022-08-20,0,25.6,1,3.9
+CUST00233,Richard Thompson,29,Male,27350.8,Sydney,2023-01-27,1,48.0,1,3.2
+CUST00234,James Davis,40,Male,85815.72,San Diego,2023-11-12,1,10.0,1,3.5
+CUST00235,Susan Jackson,29,Female,56390.96,Bangalore,2021-10-18,1,74.5,1,4.4
+CUST00236,Susan Anderson,30,Female,69451.77,Mumbai,2021-11-02,1,69.3,0,3.3
+CUST00237,Charles Nguyen,42,Male,70158.11,Houston,2022-09-26,3,32.5,1,4.5
+CUST00238,Joseph Johnson,62,Female,84182.14,Chicago,2024-02-26,0,71.4,0,5.0
+CUST00239,Mary Nguyen,68,Male,38372.01,Phoenix,2022-09-17,0,13.3,1,4.5
+CUST00240,Priya Perez,36,Female,68951.73,Dallas,2023-07-28,0,55.4,1,4.4
+CUST00241,Hiro Kim,63,Female,54499.83,Bangalore,2024-07-20,1,31.2,1,4.0
+CUST00242,Sofia Kim,53,Female,97113.54,Philadelphia,2023-04-28,0,68.8,0,3.0
+CUST00243,Thomas Thompson,62,Female,38312.72,Toronto,2022-03-18,0,36.3,1,2.9
+CUST00244,Elizabeth Garcia,25,Other,78428.53,Dallas,2022-05-18,0,29.4,1,2.9
+CUST00245,Joseph Kim,46,Male,62006.84,Toronto,2021-05-10,0,3.6,1,4.2
+CUST00246,David Jones,49,Female,60957.12,Philadelphia,2024-03-01,0,62.9,1,3.3
+CUST00247,James Davis,68,Male,56080.41,Los Angeles,2022-08-20,1,50.5,0,3.7
+CUST00248,Arjun Anderson,61,Male,81933.32,Bangalore,2023-05-12,0,44.2,1,4.1
+CUST00249,Barbara Jones,35,Male,60277.03,Phoenix,2024-11-14,1,37.4,1,2.9
+CUST00250,Michael Brown,23,Female,24511.69,Delhi,2022-08-16,0,51.0,1,3.2
+CUST00251,Jennifer Taylor,35,Other,79390.07,Mumbai,2023-09-26,0,40.9,1,4.0
+CUST00252,Karen Moore,36,Male,75724.04,Dallas,2021-11-21,2,47.4,1,3.4
+CUST00253,John Nguyen,39,Male,66742.75,San Diego,2023-12-29,0,84.5,1,3.5
+CUST00254,Linda Thompson,54,Female,32430.53,San Antonio,2022-03-24,1,56.1,1,2.8
+CUST00255,Jessica Taylor,49,Male,35537.69,New York,2023-03-30,0,11.4,0,3.5
+CUST00256,Sarah Martinez,58,Male,17451.14,Houston,2024-04-03,3,26.5,1,5.0
+CUST00257,Emma Perez,20,Female,64206.6,Delhi,2022-12-10,0,88.1,0,3.3
+CUST00258,Thomas Khan,45,Female,28009.02,San Antonio,2024-12-20,0,59.2,1,2.7
+CUST00259,Charles Nguyen,27,Other,20624.98,Sydney,2021-09-22,1,37.3,1,4.6
+CUST00260,Sofia Jones,68,Male,80499.78,Mumbai,2022-09-04,3,9.0,1,4.2
+CUST00261,Sofia Patel,52,Male,70363.59,San Antonio,2024-09-27,1,58.2,0,3.9
+CUST00262,Emma Nguyen,46,Female,48336.57,Toronto,2023-04-12,1,58.8,1,2.5
+CUST00263,William Anderson,32,Female,52319.07,Philadelphia,2024-07-25,0,74.7,1,2.6
+CUST00264,Arjun Smith,50,Female,15000.0,San Diego,2022-11-05,0,82.8,1,2.3
+CUST00265,Sofia Smith,24,Female,73334.9,Mumbai,2021-06-06,1,64.8,0,4.1
+CUST00266,Joseph Johnson,29,Male,41145.37,Bangalore,2024-12-16,2,62.2,1,4.6
+CUST00267,Emma Kim,66,Female,61605.82,Philadelphia,2021-09-08,1,27.0,1,4.1
+CUST00268,Jessica Silva,47,Male,15000.0,Austin,2023-05-28,4,36.1,1,5.0
+CUST00269,Linda Taylor,38,Male,74551.36,Sydney,2022-06-14,0,49.1,0,3.3
+CUST00270,Arjun Smith,48,Female,39943.1,Chicago,2021-11-23,2,20.3,0,3.4
+CUST00271,Jessica Miller,41,Male,27479.15,Houston,2023-08-19,0,50.5,1,3.8
+CUST00272,Robert Kim,37,Male,48207.97,London,2023-06-14,1,83.7,1,3.5
+CUST00273,Noah Nguyen,54,Female,43072.1,Chicago,2021-04-07,1,13.0,0,4.1
+CUST00274,John Anderson,21,Male,76485.35,New York,2022-05-28,0,88.8,0,3.1
+CUST00275,Sofia Jackson,45,Female,46592.1,Toronto,2021-08-04,0,28.8,1,2.4
+CUST00276,Charles Jones,61,Male,82252.34,Austin,2024-03-01,3,31.4,0,2.1
+CUST00277,Priya Silva,37,Female,61602.85,Phoenix,2024-07-07,0,78.2,1,4.1
+CUST00278,Noah Thomas,41,Male,72887.36,Toronto,2021-05-05,2,82.5,1,3.2
+CUST00279,Olivia Jones,67,Male,54956.67,New York,2024-01-11,1,77.1,0,2.6
+CUST00280,Joseph Martin,66,Other,80441.18,New York,2024-07-30,0,51.0,1,3.1
+CUST00281,Emma Thomas,68,Female,31927.52,Los Angeles,2021-02-28,0,87.3,0,5.0
+CUST00282,Emma Thompson,49,Female,57272.49,Bangalore,2021-06-10,1,85.1,1,2.7
+CUST00283,Robert Anderson,58,Male,47071.28,Houston,2021-10-11,3,3.9,1,4.4
+CUST00284,Jessica Jackson,53,Female,82932.57,Philadelphia,2021-04-16,0,62.3,0,4.1
+CUST00285,Arjun Miller,51,Female,84980.69,San Diego,2024-02-03,0,36.1,1,4.9
+CUST00286,Patricia Smith,53,Female,55008.43,Bangalore,2021-08-16,0,32.2,1,3.6
+CUST00287,Emma Jones,19,Female,29169.78,Sydney,2021-11-14,3,60.3,0,2.3
+CUST00288,Wei Martinez,32,Male,63541.95,Chicago,2023-03-13,1,82.2,1,4.6
+CUST00289,Priya Jones,51,Male,21707.81,New York,2023-05-24,0,70.2,1,3.5
+CUST00290,Patricia Johnson,53,Female,87522.86,Chicago,2022-04-17,2,71.7,0,4.8
+CUST00291,Karen Martinez,23,Male,45536.6,Delhi,2023-12-16,2,57.5,1,4.4
+CUST00292,Sofia Perez,56,Male,54388.6,Chicago,2022-09-17,1,32.3,0,4.6
+CUST00293,Sofia Smith,59,Female,41380.98,Phoenix,2021-01-13,0,39.6,0,5.0
+CUST00294,Mei Jones,68,Female,36964.37,Mumbai,2023-11-08,2,46.4,1,4.0
+CUST00295,Richard Brown,68,Female,69745.83,Delhi,2022-11-25,2,35.7,1,5.0
+CUST00296,Jessica Khan,29,Female,51827.67,Delhi,2023-08-31,1,33.2,0,3.3
+CUST00297,Jessica Nguyen,20,Female,55849.65,Houston,2021-04-23,1,61.1,1,4.2
+CUST00298,Mary Martin,62,Male,34922.18,Bangalore,2021-08-17,1,37.6,1,3.2
+CUST00299,Olivia Thompson,35,Male,72121.18,Houston,2021-06-20,1,50.8,1,4.1
+CUST00300,Mei Anderson,57,Male,74155.79,Dallas,2021-10-22,1,45.4,1,4.0
+CUST00301,Sarah Williams,38,Male,50821.43,San Antonio,2021-07-08,0,49.9,1,1.8
+CUST00302,Olivia Smith,32,Female,80358.44,Houston,2022-03-02,3,72.2,0,3.1
+CUST00303,James Perez,50,Male,52917.52,Chicago,2023-09-04,2,55.8,0,3.9
+CUST00304,David Jones,52,Male,70595.11,Philadelphia,2024-01-08,0,67.8,1,1.7
+CUST00305,Barbara Williams,43,Male,22541.45,Chicago,2022-10-20,3,69.2,1,3.6
+CUST00306,James Smith,25,Male,62068.62,Philadelphia,2023-07-08,1,9.0,1,4.6
+CUST00307,Linda Martinez,53,Male,49570.37,Mumbai,2024-04-20,2,19.9,1,4.9
+CUST00308,David Anderson,65,Male,58110.45,Bangalore,2022-05-14,1,76.0,0,3.0
+CUST00309,Noah Taylor,47,Male,57213.65,Mumbai,2023-02-01,2,60.1,0,4.9
+CUST00310,Barbara Thomas,40,Male,57514.0,Bangalore,2023-05-16,1,19.5,0,4.8
+CUST00311,Mary Perez,59,Male,67314.01,Bangalore,2023-04-06,0,69.9,1,1.8
+CUST00312,Sarah Williams,61,Female,43696.53,Delhi,2021-03-12,2,23.8,1,3.8
+CUST00313,Wei Martin,31,Male,66381.59,Dallas,2021-09-05,0,87.4,1,3.9
+CUST00314,Sofia Davis,31,Male,79650.5,Philadelphia,2021-05-26,1,77.9,1,5.0
+CUST00315,Noah Martinez,19,Female,26797.18,Delhi,2024-08-12,1,72.3,1,4.0
+CUST00316,Sofia Johnson,54,Male,39389.2,Houston,2022-08-05,3,56.0,0,5.0
+CUST00317,Charles Rodriguez,22,Female,40229.29,Toronto,2022-04-15,0,51.0,0,3.0
+CUST00318,Michael Brown,55,Female,33159.08,Phoenix,2021-07-12,0,51.9,0,2.3
+CUST00319,Sofia Patel,62,Male,45506.04,Bangalore,2023-12-28,2,22.1,0,3.1
+CUST00320,Sarah Taylor,58,Female,75662.37,Philadelphia,2022-05-09,2,63.4,1,5.0
+CUST00321,David Khan,64,Male,83951.74,Mumbai,2021-02-21,0,37.5,1,4.5
+CUST00322,Patricia Silva,31,Female,57123.5,Chicago,2023-06-01,0,83.2,1,5.0
+CUST00323,Arjun Silva,56,Male,48515.28,San Diego,2021-12-29,0,46.3,1,2.4
+CUST00324,Patricia Martinez,42,Female,71058.48,Houston,2023-07-06,2,39.6,1,4.6
+CUST00325,Robert Rodriguez,37,Male,15000.0,San Diego,2022-04-19,3,66.4,0,4.4
+CUST00326,Mei Williams,19,Female,33896.43,Austin,2022-06-05,0,62.5,1,3.4
+CUST00327,Thomas Williams,56,Female,15000.0,Austin,2024-12-25,2,41.0,1,4.4
+CUST00328,Jessica Brown,23,Male,33686.01,Sydney,2024-08-14,1,8.1,1,3.8
+CUST00329,Sarah Martin,34,Male,39659.65,Chicago,2024-12-29,4,51.5,1,4.1
+CUST00330,Michael Khan,42,Female,84553.64,Austin,2022-11-22,1,30.2,1,4.3
+CUST00331,Wei Jones,45,Female,15000.0,San Antonio,2024-05-06,2,40.8,1,4.6
+CUST00332,Barbara Martin,19,Male,46665.95,Mumbai,2024-02-26,2,33.7,1,3.8
+CUST00333,Wei Taylor,52,Female,67391.33,Bangalore,2022-06-16,2,21.2,0,5.0
+CUST00334,Wei Silva,54,Other,63214.61,Delhi,2024-12-05,2,63.1,1,3.5
+CUST00335,John Rodriguez,22,Female,84234.76,Dallas,2023-04-20,1,82.0,1,5.0
+CUST00336,Emma Martin,18,Male,58221.03,Houston,2023-12-25,1,65.3,1,2.7
+CUST00337,Thomas Thompson,57,Female,62485.56,San Diego,2021-08-29,1,81.2,0,2.8
+CUST00338,Jessica Silva,29,Male,18229.86,Chicago,2024-10-24,4,76.3,1,2.9
+CUST00339,Priya Taylor,53,Other,35234.62,Sydney,2022-06-20,0,11.2,0,4.6
+CUST00340,Liam Perez,62,Female,19345.91,San Antonio,2024-11-08,0,50.5,0,3.0
+CUST00341,Thomas Brown,40,Male,66452.16,Chicago,2024-12-25,2,16.6,0,5.0
+CUST00342,Barbara Rodriguez,64,Female,61973.81,Delhi,2021-03-24,1,80.6,1,3.2
+CUST00343,Charles Anderson,48,Male,61270.76,Toronto,2023-09-09,0,51.0,1,4.1
+CUST00344,William Miller,28,Other,37371.33,Toronto,2023-08-09,4,96.9,1,4.3
+CUST00345,Olivia Thomas,27,Other,35541.0,San Antonio,2022-09-03,1,29.3,1,2.8
+CUST00346,Karen Perez,20,Female,59188.94,London,2022-07-28,0,54.5,1,2.4
+CUST00347,Sofia Moore,31,Male,41612.28,Mumbai,2021-10-13,3,50.6,0,4.0
+CUST00348,Jessica Patel,33,Female,34591.91,Austin,2023-09-16,0,85.4,0,3.5
+CUST00349,Robert Williams,27,Male,44832.21,Austin,2022-04-04,1,34.5,1,4.1
+CUST00350,Barbara Silva,46,Male,41785.16,Mumbai,2024-05-20,1,75.3,1,2.5
+CUST00351,Karen Patel,27,Female,37665.54,Mumbai,2021-05-06,0,56.2,0,3.4
+CUST00352,Patricia Patel,29,Male,30484.64,Philadelphia,2024-12-07,2,79.8,1,3.5
+CUST00353,Wei Jackson,47,Male,63973.8,Los Angeles,2022-03-01,0,44.9,1,1.5
+CUST00354,Hiro Miller,58,Other,86120.99,Mumbai,2022-07-08,1,60.7,1,4.6
+CUST00355,Richard Patel,18,Male,54219.92,Chicago,2022-09-02,2,29.3,0,3.0
+CUST00356,Elizabeth Miller,22,Male,59448.68,Sydney,2024-03-27,1,44.5,1,5.0
+CUST00357,Susan Jones,37,Female,65727.56,Philadelphia,2021-04-22,1,61.6,0,3.1
+CUST00358,John Nguyen,25,Male,62331.32,London,2022-02-06,1,83.8,1,3.2
+CUST00359,Noah Wilson,60,Female,38061.75,Houston,2021-05-02,2,90.2,1,2.6
+CUST00360,David Lee,29,Other,89396.92,Philadelphia,2021-09-30,1,62.3,1,4.7
+CUST00361,Joseph Anderson,18,Female,39853.79,New York,2024-08-10,1,29.3,1,4.1
+CUST00362,William Martinez,37,Female,67961.77,Austin,2022-02-02,0,86.8,1,5.0
+CUST00363,Sofia Anderson,45,Male,65603.83,Delhi,2022-04-16,1,63.6,1,3.5
+CUST00364,Thomas Garcia,60,Male,15831.17,New York,2023-09-12,5,14.4,0,3.7
+CUST00365,Michael Thomas,54,Female,47823.07,Chicago,2024-05-15,1,8.9,1,2.2
+CUST00366,Richard Davis,64,Female,56132.57,San Diego,2024-02-08,1,59.7,0,3.1
+CUST00367,Elizabeth Rodriguez,54,Female,57663.02,San Diego,2024-07-25,2,44.8,0,3.9
+CUST00368,Sarah Johnson,29,Male,61028.41,Mumbai,2022-07-23,1,10.3,0,4.0
+CUST00369,Robert Jones,54,Male,70153.26,Houston,2024-02-12,2,60.4,0,5.0
+CUST00370,Jennifer Perez,66,Male,54849.69,Philadelphia,2023-06-16,0,64.2,1,2.0
+CUST00371,Linda Jackson,66,Female,62092.35,Toronto,2023-03-31,0,68.6,1,3.9
+CUST00372,Richard Smith,61,Male,54100.91,San Diego,2023-05-03,0,40.7,0,3.4
+CUST00373,Priya Thompson,45,Female,34653.33,San Antonio,2022-12-11,2,30.7,0,3.8
+CUST00374,Thomas Miller,64,Female,55648.03,Mumbai,2021-11-17,3,56.1,0,3.8
+CUST00375,Hiro Taylor,32,Male,69981.8,San Antonio,2021-06-28,1,51.3,1,3.5
+CUST00376,Patricia Brown,23,Female,77175.77,Bangalore,2023-06-16,0,56.4,1,2.7
+CUST00377,Jennifer Perez,61,Male,65746.31,Houston,2021-08-07,0,43.8,1,2.5
+CUST00378,Noah Anderson,37,Female,81687.01,Dallas,2023-02-28,3,94.6,0,3.5
+CUST00379,Priya Miller,67,Female,63377.29,Delhi,2022-05-07,1,50.2,1,2.4
+CUST00380,Liam Martinez,31,Female,72277.6,Austin,2021-03-02,0,31.1,1,3.6
+CUST00381,Sofia Perez,19,Female,73747.82,Philadelphia,2023-12-14,4,34.9,1,3.5
+CUST00382,Michael Williams,26,Male,50532.99,London,2022-06-22,0,47.3,1,1.5
+CUST00383,Richard Taylor,54,Male,69520.07,Delhi,2023-04-28,1,70.7,1,5.0
+CUST00384,Sarah Thompson,37,Female,36187.1,Mumbai,2023-09-15,2,69.6,0,3.8
+CUST00385,Olivia Davis,43,Male,61996.25,Chicago,2021-03-06,0,51.1,0,1.5
+CUST00386,Noah Rodriguez,46,Male,66540.52,Phoenix,2022-08-09,0,78.7,1,3.9
+CUST00387,Michael Smith,18,Male,76021.9,Phoenix,2021-06-20,1,52.1,1,3.5
+CUST00388,John Taylor,52,Female,71415.19,London,2024-07-20,2,85.7,0,2.5
+CUST00389,Olivia Silva,23,Male,76282.28,Phoenix,2022-06-19,0,67.6,1,4.0
+CUST00390,Olivia Martin,54,Female,53012.39,San Diego,2024-11-15,0,32.2,0,2.9
+CUST00391,Hiro Khan,22,Other,48092.14,Sydney,2022-11-24,1,49.3,1,3.9
+CUST00392,James Garcia,50,Male,49502.02,Dallas,2024-09-12,1,54.7,1,3.1
+CUST00393,Arjun Garcia,66,Male,60325.67,Bangalore,2021-04-18,2,94.5,1,2.9
+CUST00394,Sofia Anderson,68,Male,18825.06,Dallas,2024-03-31,1,68.5,0,3.7
+CUST00395,Richard Taylor,31,Female,81635.14,Bangalore,2023-03-25,0,52.5,1,2.2
+CUST00396,Noah Moore,29,Male,55877.47,Philadelphia,2023-10-02,3,60.1,1,3.6
+CUST00397,Arjun Jackson,59,Male,46699.97,Philadelphia,2022-03-28,3,31.6,1,4.3
+CUST00398,Priya Patel,37,Male,15000.0,Dallas,2024-05-14,3,86.8,1,4.8
+CUST00399,David Jones,67,Female,54263.73,Houston,2022-08-13,1,55.2,1,4.7
+CUST00400,Patricia Williams,41,Male,51030.47,Philadelphia,2023-11-06,1,55.4,1,4.9
+CUST00401,Charles Thompson,60,Female,37059.07,Houston,2021-11-23,2,96.2,1,3.3
+CUST00402,Hiro Lee,51,Female,41539.06,Mumbai,2022-08-31,0,64.1,1,2.8
+CUST00403,Joseph Rodriguez,42,Male,54467.27,Sydney,2022-10-21,0,52.0,1,4.4
+CUST00404,Thomas Thomas,67,Female,43235.27,New York,2021-01-02,1,61.7,1,3.2
+CUST00405,Joseph Smith,46,Male,66437.56,San Antonio,2023-10-31,0,53.6,1,3.7
+CUST00406,Arjun Kim,56,Female,40024.33,London,2022-03-10,0,63.2,1,4.4
+CUST00407,Priya Williams,48,Female,58092.17,Austin,2021-05-05,1,15.1,1,5.0
+CUST00408,Jessica Nguyen,64,Female,78600.91,Mumbai,2024-01-10,1,26.1,1,4.2
+CUST00409,Hiro Wilson,60,Male,54268.08,Delhi,2022-04-30,1,78.5,1,3.9
+CUST00410,Barbara Martinez,67,Male,62119.54,Philadelphia,2022-10-14,1,53.6,1,2.7
+CUST00411,Jessica Davis,40,Male,60853.03,Dallas,2024-03-19,4,30.1,1,4.8
+CUST00412,Jennifer Anderson,61,Male,55159.94,San Antonio,2023-03-11,2,33.1,1,4.1
+CUST00413,Mei Patel,55,Male,53659.86,Bangalore,2023-05-23,2,48.5,1,3.4
+CUST00414,Linda Brown,37,Male,43572.52,San Antonio,2024-09-25,0,69.7,0,3.3
+CUST00415,Sofia Davis,40,Male,58020.25,Los Angeles,2021-05-09,0,40.5,0,3.3
+CUST00416,Sofia Lee,62,Male,49334.65,Delhi,2022-03-14,1,60.9,1,3.7
+CUST00417,Olivia Jones,69,Female,85921.8,Mumbai,2023-01-21,0,5.5,1,2.4
+CUST00418,William Brown,33,Male,71222.87,Toronto,2022-05-16,0,57.9,0,4.8
+CUST00419,Liam Kim,67,Male,25944.08,Dallas,2023-12-18,2,24.1,0,4.6
+CUST00420,Thomas Rodriguez,59,Male,27056.84,Austin,2024-05-06,0,72.2,1,3.5
+CUST00421,James Patel,25,Male,52390.8,Dallas,2021-07-30,0,28.7,1,3.3
+CUST00422,Karen Taylor,67,Other,47093.89,Philadelphia,2023-06-21,2,63.0,1,3.7
+CUST00423,Olivia Jackson,38,Male,51336.12,Bangalore,2021-02-14,0,36.1,1,3.8
+CUST00424,Noah Taylor,18,Female,68023.23,Chicago,2024-01-26,2,44.5,1,3.4
+CUST00425,Susan Williams,25,Other,61314.72,New York,2024-07-26,0,36.9,1,4.6
+CUST00426,Noah Garcia,46,Female,61112.58,Houston,2022-06-19,2,67.6,0,2.4
+CUST00427,Sarah Perez,49,Female,83923.89,London,2024-12-04,2,83.9,1,3.1
+CUST00428,Robert Moore,55,Female,27222.17,London,2022-04-06,2,14.1,1,4.4
+CUST00429,Hiro Johnson,22,Other,57078.78,Chicago,2022-01-26,1,9.3,1,4.0
+CUST00430,Elizabeth Khan,64,Female,43418.95,London,2023-12-04,1,30.4,1,3.1
+CUST00431,Emma Lee,39,Female,83708.72,Delhi,2021-01-27,2,15.3,1,4.1
+CUST00432,Liam Taylor,64,Female,15000.0,New York,2023-03-05,2,25.1,1,3.0
+CUST00433,Robert Nguyen,51,Female,15000.0,Chicago,2024-01-26,2,24.6,1,3.4
+CUST00434,Mei Smith,18,Female,61092.73,Sydney,2023-09-02,1,45.5,1,4.6
+CUST00435,Priya Smith,43,Male,77525.93,London,2022-07-02,0,26.5,0,4.5
+CUST00436,Sarah Moore,60,Male,70465.09,London,2022-09-13,2,59.9,1,4.0
+CUST00437,Thomas Wilson,27,Male,38980.38,Houston,2022-07-21,1,87.0,1,2.8
+CUST00438,Arjun Silva,47,Male,85128.43,Bangalore,2022-12-05,2,39.7,1,3.4
+CUST00439,Priya Martin,67,Male,30370.63,Bangalore,2024-05-27,0,42.1,1,3.8
+CUST00440,Richard Smith,35,Male,81149.68,Toronto,2021-07-04,3,65.2,1,5.0
+CUST00441,Mary Rodriguez,34,Female,33015.43,London,2023-12-29,1,79.3,1,2.1
+CUST00442,John Smith,43,Male,47963.52,San Diego,2024-02-28,2,3.4,1,2.9
+CUST00443,Arjun Jackson,25,Female,67785.39,Dallas,2023-04-28,1,47.1,1,4.7
+CUST00444,Wei Garcia,64,Male,25675.84,Chicago,2022-08-22,2,42.9,0,4.9
+CUST00445,Olivia Martin,57,Male,84380.47,Philadelphia,2023-03-17,1,41.5,1,3.6
+CUST00446,Robert Jones,66,Female,47841.12,Austin,2024-09-19,1,42.6,1,5.0
+CUST00447,Jennifer Williams,29,Female,57745.52,Mumbai,2024-03-23,1,81.0,1,3.0
+CUST00448,Arjun Nguyen,44,Male,78244.02,Toronto,2021-03-20,2,87.6,0,2.3
+CUST00449,Robert Patel,25,Female,39137.49,Phoenix,2022-08-02,2,72.3,1,4.4
+CUST00450,Robert Martinez,42,Female,76216.27,Sydney,2022-02-17,0,54.1,1,4.9
+CUST00451,Elizabeth Perez,63,Male,87810.67,Philadelphia,2022-06-30,1,66.3,0,4.9
+CUST00452,Thomas Patel,21,Male,41888.42,Houston,2021-06-18,0,19.8,1,2.9
+CUST00453,Susan Rodriguez,50,Other,82387.75,Austin,2022-11-12,1,25.4,1,3.9
+CUST00454,Susan Smith,18,Female,19788.43,Philadelphia,2022-08-06,0,14.5,1,4.5
+CUST00455,Charles Taylor,36,Female,62792.01,Sydney,2022-05-30,0,81.7,0,4.0
+CUST00456,Richard Brown,48,Female,30428.03,San Antonio,2024-08-30,0,26.0,0,5.0
+CUST00457,Emma Smith,33,Male,73851.37,Dallas,2021-02-01,0,59.6,0,3.3
+CUST00458,Thomas Davis,31,Male,72209.12,Austin,2021-10-14,1,38.2,0,3.6
+CUST00459,Mary Davis,65,Male,96547.6,San Antonio,2022-08-17,1,23.7,0,3.9
+CUST00460,Michael Johnson,22,Female,83425.66,Philadelphia,2023-12-03,1,79.3,1,4.4
+CUST00461,Priya Kim,58,Female,51684.58,New York,2022-09-09,2,63.6,0,3.5
+CUST00462,John Lee,43,Female,33365.05,Los Angeles,2023-10-22,2,87.9,1,4.5
+CUST00463,Barbara Smith,45,Male,66313.74,New York,2021-09-27,3,43.8,1,5.0
+CUST00464,Priya Anderson,19,Male,53785.37,Dallas,2024-04-18,4,34.1,1,3.2
+CUST00465,Robert Silva,67,Female,86023.1,Austin,2022-06-02,1,74.9,1,3.6
+CUST00466,Thomas Jackson,23,Female,15000.0,Austin,2024-02-01,0,13.3,0,4.6
+CUST00467,Joseph Nguyen,26,Female,98761.14,Dallas,2023-10-31,1,59.7,1,5.0
+CUST00468,Joseph Jones,50,Male,65639.81,San Antonio,2022-08-06,0,88.1,1,4.3
+CUST00469,Arjun Thomas,58,Female,38739.76,Sydney,2024-01-19,1,83.3,1,3.0
+CUST00470,Mary Wilson,42,Male,69679.78,Bangalore,2021-08-14,2,49.9,0,3.9
+CUST00471,Charles Miller,65,Female,80948.43,Los Angeles,2022-11-01,0,40.6,1,4.6
+CUST00472,Jennifer Johnson,30,Male,57286.94,Philadelphia,2023-07-06,0,56.3,1,3.0
+CUST00473,Jennifer Lee,26,Female,19701.59,Mumbai,2021-05-06,1,58.0,1,2.7
+CUST00474,Mary Lee,30,Male,49123.06,Houston,2023-08-14,1,14.8,1,3.4
+CUST00475,Emma Moore,48,Female,75787.9,New York,2024-05-17,1,84.9,1,4.3
+CUST00476,Liam Perez,58,Male,64933.29,New York,2024-01-26,1,51.6,1,2.5
+CUST00477,Mary Thompson,28,Male,51869.86,Delhi,2021-03-15,1,84.2,0,3.1
+CUST00478,Hiro Garcia,21,Male,81166.32,Phoenix,2024-04-29,1,72.4,1,3.9
+CUST00479,James Khan,51,Male,69786.12,Delhi,2021-02-25,1,79.8,1,4.7
+CUST00480,Joseph Nguyen,55,Male,71326.78,Los Angeles,2022-12-21,0,54.2,1,4.0
+CUST00481,Elizabeth Perez,63,Female,46787.31,Houston,2022-07-07,0,29.8,1,4.0
+CUST00482,Thomas Jones,21,Male,44852.33,New York,2021-02-01,2,37.6,1,4.6
+CUST00483,Noah Brown,55,Female,21000.81,Houston,2022-07-28,0,42.7,1,5.0
+CUST00484,Elizabeth Khan,36,Female,49812.16,Mumbai,2022-10-29,0,48.7,1,5.0
+CUST00485,Thomas Martinez,23,Female,73707.84,Philadelphia,2021-10-11,0,70.9,0,1.9
+CUST00486,Thomas Thompson,51,Male,50918.13,Austin,2021-07-06,0,75.2,1,3.8
+CUST00487,Mei Jones,35,Male,63910.78,Houston,2022-05-13,2,51.3,1,4.5
+CUST00488,Mary Garcia,30,Female,77223.99,New York,2021-05-10,1,59.2,1,5.0
+CUST00489,Arjun Johnson,58,Other,62456.66,San Antonio,2022-10-01,1,42.8,1,4.3
+CUST00490,Richard Wilson,40,Male,64410.3,London,2024-08-08,4,84.0,1,2.9
+CUST00491,David Jackson,36,Male,27843.55,Los Angeles,2021-04-24,1,66.6,1,3.0
+CUST00492,David Perez,62,Male,48548.7,Dallas,2024-05-07,2,43.6,0,3.1
+CUST00493,Joseph Silva,28,Other,89532.53,Bangalore,2021-01-13,1,75.8,1,4.0
+CUST00494,Wei Nguyen,18,Male,57075.94,Chicago,2024-07-18,4,49.6,1,3.3
+CUST00495,Jessica Wilson,41,Male,92934.76,San Diego,2024-05-23,4,69.3,0,1.0
+CUST00496,Priya Jackson,24,Female,40537.69,Bangalore,2022-03-20,3,28.0,1,2.6
+CUST00497,Linda Brown,42,Male,59678.95,San Diego,2022-03-23,0,48.8,0,3.3
+CUST00498,Linda Brown,38,Male,47346.43,Chicago,2023-09-13,1,35.4,1,2.5
+CUST00499,Mei Silva,32,Female,66839.69,Houston,2023-09-20,0,6.0,1,2.6
+CUST00500,John Williams,18,Female,72900.17,Los Angeles,2022-12-16,0,4.3,1,5.0
+CUST00501,Liam Lee,29,Male,67049.32,Houston,2021-03-15,1,75.3,0,3.7
+CUST00502,Noah Perez,24,Male,75837.04,Mumbai,2022-06-21,1,88.5,0,3.4
+CUST00503,Charles Patel,32,Male,54736.54,Mumbai,2021-04-11,4,45.4,1,4.3
+CUST00504,Robert Lee,38,Male,51189.43,Mumbai,2021-06-25,2,54.1,1,4.7
+CUST00505,Olivia Martinez,36,Female,19836.14,Sydney,2022-03-03,0,31.7,1,5.0
+CUST00506,Noah Kim,46,Male,67769.02,London,2024-02-15,1,76.1,1,5.0
+CUST00507,Arjun Garcia,42,Male,58443.68,Dallas,2024-04-04,1,30.7,1,4.1
+CUST00508,James Jones,50,Male,53641.71,Los Angeles,2021-02-10,1,77.8,1,2.3
+CUST00509,William Anderson,66,Female,51183.65,Delhi,2022-03-05,0,73.4,1,2.8
+CUST00510,Sofia Thomas,49,Female,54262.41,Delhi,2021-12-10,1,50.9,1,3.3
+CUST00511,Mary Martin,66,Female,50275.28,Bangalore,2024-12-18,3,52.0,1,4.2
+CUST00512,Susan Taylor,52,Male,44439.32,Sydney,2022-01-01,1,34.9,0,3.8
+CUST00513,Liam Rodriguez,61,Female,59791.78,Chicago,2024-02-18,0,31.8,0,2.4
+CUST00514,Sofia Silva,55,Female,64683.18,Toronto,2022-09-01,1,16.8,1,2.2
+CUST00515,Joseph Silva,43,Male,39588.64,Mumbai,2022-10-19,0,13.8,0,3.9
+CUST00516,Priya Moore,28,Male,46985.29,Mumbai,2022-12-29,2,80.0,1,3.8
+CUST00517,Mei Wilson,52,Male,50907.56,Toronto,2021-08-17,0,11.5,0,3.5
+CUST00518,Jessica Martin,25,Male,55096.27,Houston,2023-04-05,1,10.8,1,4.1
+CUST00519,Sofia Brown,63,Male,52436.29,Phoenix,2024-02-28,1,56.5,1,4.8
+CUST00520,James Davis,31,Male,68194.42,New York,2024-10-07,2,56.2,0,4.0
+CUST00521,Thomas Williams,27,Male,21952.66,San Antonio,2023-06-08,2,83.8,1,2.9
+CUST00522,Noah Thompson,19,Female,25499.26,Sydney,2024-09-03,1,78.3,0,5.0
+CUST00523,Joseph Moore,63,Male,58871.39,London,2023-09-11,0,34.7,0,3.5
+CUST00524,Mei Kim,26,Female,42946.28,Austin,2023-04-16,2,38.9,0,3.7
+CUST00525,Susan Nguyen,20,Female,72684.85,Sydney,2024-09-22,1,42.8,1,3.1
+CUST00526,Susan Khan,38,Female,78396.02,San Antonio,2024-07-20,3,35.0,1,2.7
+CUST00527,Mary Taylor,43,Female,59674.94,Dallas,2021-04-27,2,55.0,1,2.8
+CUST00528,Sofia Thomas,25,Male,33560.5,Houston,2023-03-29,0,53.2,0,2.6
+CUST00529,Liam Khan,65,Female,76091.87,London,2022-01-03,1,14.7,1,1.0
+CUST00530,Charles Miller,19,Male,58978.05,London,2024-01-23,0,86.9,1,3.6
+CUST00531,John Moore,23,Male,25261.28,Philadelphia,2021-06-17,0,45.0,1,4.7
+CUST00532,Wei Thomas,45,Female,27029.61,Mumbai,2023-08-12,2,47.6,1,2.8
+CUST00533,David Moore,46,Male,85338.94,Los Angeles,2024-09-26,2,86.3,1,5.0
+CUST00534,Olivia Taylor,43,Male,82022.72,Delhi,2022-10-23,0,53.9,1,4.9
+CUST00535,Sarah Garcia,42,Female,15000.0,Delhi,2022-11-26,3,5.1,0,3.7
+CUST00536,John Perez,29,Female,27844.18,London,2023-07-14,0,80.9,1,2.7
+CUST00537,Joseph Silva,22,Female,77817.11,Houston,2021-06-01,2,46.6,0,2.3
+CUST00538,Wei Jones,51,Male,54630.15,Los Angeles,2022-08-09,0,61.8,1,3.6
+CUST00539,Olivia Martinez,65,Female,69036.99,Austin,2023-07-02,2,58.4,1,3.8
+CUST00540,Michael Silva,54,Male,53760.95,Phoenix,2021-10-01,2,95.1,1,3.5
+CUST00541,Thomas Miller,32,Female,68089.85,Toronto,2022-05-11,3,31.0,1,4.7
+CUST00542,Priya Anderson,61,Female,55116.67,San Antonio,2021-04-11,0,42.6,1,5.0
+CUST00543,Hiro Martin,53,Female,46247.83,Bangalore,2022-07-11,0,79.0,0,4.1
+CUST00544,Richard Thompson,32,Female,76174.88,New York,2024-01-11,3,20.5,1,4.2
+CUST00545,Hiro Brown,60,Male,59041.09,Toronto,2021-03-14,2,78.1,1,3.4
+CUST00546,Elizabeth Williams,65,Female,68047.77,Austin,2023-11-04,2,33.9,1,3.7
+CUST00547,William Taylor,40,Female,58148.96,Austin,2024-12-27,2,15.5,0,4.1
+CUST00548,Sarah Moore,23,Male,45272.86,San Antonio,2021-06-06,1,16.6,1,3.4
+CUST00549,Patricia Moore,63,Female,87167.79,Austin,2023-01-05,3,47.8,1,4.3
+CUST00550,Priya Johnson,67,Male,62099.37,Bangalore,2021-05-12,2,16.0,1,2.7
+CUST00551,Joseph Davis,61,Female,47899.03,Philadelphia,2024-09-23,3,29.4,0,3.0
+CUST00552,Linda Martin,60,Female,80566.59,Philadelphia,2023-10-16,1,86.8,1,2.8
+CUST00553,Barbara Perez,62,Female,28583.52,Delhi,2024-11-28,1,71.5,1,3.1
+CUST00554,Elizabeth Rodriguez,38,Male,99725.67,San Diego,2024-10-31,0,76.3,1,3.4
+CUST00555,Robert Garcia,40,Female,51417.0,San Diego,2022-07-13,0,66.4,0,4.6
+CUST00556,Karen Johnson,60,Female,29639.72,Philadelphia,2021-04-17,0,42.7,1,3.7
+CUST00557,Liam Khan,33,Female,93118.83,Chicago,2021-09-22,1,30.5,0,2.5
+CUST00558,Liam Taylor,64,Male,45736.65,Phoenix,2024-05-13,3,46.4,1,2.4
+CUST00559,Jennifer Jones,32,Male,59864.89,Los Angeles,2024-01-08,1,30.8,1,3.3
+CUST00560,Hiro Smith,42,Female,69353.81,Toronto,2021-06-04,1,68.7,1,4.5
+CUST00561,Arjun Kim,53,Male,78683.45,London,2023-09-15,0,56.1,0,5.0
+CUST00562,Arjun Garcia,28,Female,60995.49,Phoenix,2023-09-24,1,77.8,1,2.3
+CUST00563,Jennifer Nguyen,68,Female,42053.69,London,2021-09-04,2,53.6,0,4.0
+CUST00564,Jessica Brown,32,Female,59379.85,Dallas,2022-06-15,1,49.3,1,3.3
+CUST00565,Emma Wilson,21,Female,46613.69,Austin,2023-05-08,1,82.7,0,3.4
+CUST00566,Emma Khan,38,Female,59980.23,New York,2022-06-22,2,55.8,1,2.7
+CUST00567,Wei Rodriguez,30,Male,87562.99,Austin,2022-12-30,4,49.6,1,3.5
+CUST00568,Wei Williams,39,Male,70118.5,Phoenix,2024-03-23,1,51.3,1,2.7
+CUST00569,Charles Davis,36,Male,59132.93,Delhi,2021-06-03,0,63.2,1,3.5
+CUST00570,Robert Brown,51,Male,69769.82,Philadelphia,2021-04-02,2,16.3,1,4.7
+CUST00571,Mei Garcia,31,Female,71201.61,London,2024-12-27,0,43.0,1,4.3
+CUST00572,Mary Thompson,21,Female,33442.52,Mumbai,2021-12-04,1,65.9,1,5.0
+CUST00573,Olivia Wilson,65,Female,55834.45,San Antonio,2024-02-29,0,17.3,1,4.2
+CUST00574,Patricia Moore,69,Female,106250.55,Dallas,2022-03-26,0,25.9,1,3.9
+CUST00575,Jennifer Kim,63,Other,79256.42,Philadelphia,2023-03-21,1,38.1,1,4.2
+CUST00576,Thomas Khan,44,Female,44931.29,Phoenix,2023-02-26,0,37.9,1,3.0
+CUST00577,Jennifer Perez,46,Female,42935.84,Delhi,2021-09-30,1,9.2,1,1.8
+CUST00578,Emma Silva,64,Female,42269.49,San Antonio,2022-08-11,5,44.1,1,4.4
+CUST00579,Mary Moore,45,Male,72326.4,Bangalore,2021-06-26,2,46.1,1,2.1
+CUST00580,David Davis,52,Male,87152.82,New York,2023-04-11,0,88.8,0,4.7
+CUST00581,Sofia Perez,25,Male,66643.34,Mumbai,2022-10-05,2,58.0,0,4.4
+CUST00582,Richard Anderson,33,Female,58143.25,London,2023-12-09,2,79.6,1,2.9
+CUST00583,Robert Garcia,59,Female,46116.89,Phoenix,2022-07-21,3,88.9,1,3.3
+CUST00584,Sofia Kim,53,Male,61587.46,Toronto,2022-10-28,3,46.6,1,3.7
+CUST00585,Patricia Perez,47,Male,38597.57,Los Angeles,2024-10-10,2,44.5,1,2.9
+CUST00586,Karen Smith,35,Female,16284.69,Houston,2024-08-24,0,61.3,1,4.2
+CUST00587,Karen Martin,19,Male,87736.51,San Antonio,2023-05-18,2,36.9,1,4.3
+CUST00588,Barbara Moore,66,Male,34883.75,Phoenix,2023-12-06,0,60.5,1,2.4
+CUST00589,James Thomas,30,Female,48503.35,Delhi,2021-10-29,0,46.6,1,3.0
+CUST00590,Jennifer Jones,21,Male,68127.15,Philadelphia,2023-05-18,1,58.4,1,3.7
+CUST00591,Emma Wilson,43,Male,83689.34,Los Angeles,2023-07-01,1,39.4,1,4.7
+CUST00592,Patricia Taylor,42,Female,60142.61,Chicago,2022-02-12,2,52.7,1,4.3
+CUST00593,David Williams,47,Female,31125.78,San Antonio,2024-04-27,4,34.6,1,1.6
+CUST00594,James Garcia,28,Female,48973.07,Mumbai,2023-04-02,0,28.7,1,3.4
+CUST00595,Sarah Khan,24,Male,41430.29,Los Angeles,2024-02-27,1,54.0,0,4.1
+CUST00596,Elizabeth Jones,48,Male,54235.78,Delhi,2022-07-15,1,38.0,0,3.0
+CUST00597,Wei Martinez,61,Male,79639.69,Philadelphia,2024-07-13,2,17.0,1,2.9
+CUST00598,Barbara Johnson,27,Female,15000.0,Phoenix,2024-02-16,1,89.4,1,3.0
+CUST00599,Richard Davis,56,Female,46772.2,Austin,2022-04-09,0,44.1,1,3.4
+CUST00600,Mary Thompson,30,Male,45319.01,New York,2021-05-24,3,41.9,1,2.8
+CUST00601,James Jones,48,Female,29864.77,Delhi,2022-03-18,2,89.6,1,4.3
+CUST00602,William Martin,24,Male,66709.81,Mumbai,2024-05-08,3,37.6,1,2.9
+CUST00603,William Wilson,66,Male,26700.48,Toronto,2024-03-26,2,57.8,1,2.8
+CUST00604,Joseph Khan,59,Male,29002.11,Austin,2022-05-02,2,46.5,1,3.3
+CUST00605,Jennifer Nguyen,59,Male,72021.38,Mumbai,2023-05-10,0,94.0,0,5.0
+CUST00606,John Martin,53,Female,85011.43,Houston,2024-03-03,1,78.1,0,4.2
+CUST00607,Robert Anderson,37,Female,53478.06,Mumbai,2021-05-28,3,50.4,1,4.2
+CUST00608,Sarah Thomas,21,Male,30652.08,Los Angeles,2024-09-21,3,53.3,1,4.0
+CUST00609,Arjun Khan,24,Female,40888.92,Houston,2023-12-31,1,30.7,1,2.8
+CUST00610,David Rodriguez,18,Male,75160.04,New York,2024-06-10,3,38.4,0,3.1
+CUST00611,Mary Anderson,61,Female,57328.76,Los Angeles,2024-09-19,2,62.6,0,3.0
+CUST00612,John Williams,62,Female,52979.22,Bangalore,2023-03-22,1,39.1,0,4.7
+CUST00613,James Davis,59,Male,61260.99,San Diego,2022-10-28,0,27.8,1,4.0
+CUST00614,Priya Davis,64,Female,54246.8,Philadelphia,2021-03-31,0,33.6,0,2.2
+CUST00615,David Rodriguez,30,Male,85914.25,Los Angeles,2024-09-19,0,80.8,1,5.0
+CUST00616,Robert Thomas,39,Male,40017.13,Delhi,2021-07-18,1,27.8,0,3.4
+CUST00617,Olivia Williams,38,Male,37720.82,Toronto,2024-03-30,0,57.3,0,4.3
+CUST00618,Arjun Jones,39,Female,27330.93,Philadelphia,2022-06-22,3,43.1,1,4.6
+CUST00619,Robert Perez,45,Female,44200.25,Austin,2024-02-19,1,23.1,1,1.4
+CUST00620,Liam Thomas,26,Male,33160.49,Dallas,2021-10-28,1,45.9,0,4.1
+CUST00621,Sofia Brown,43,Female,59361.51,San Antonio,2022-12-25,1,14.7,1,3.5
+CUST00622,Hiro Taylor,26,Female,55418.95,Dallas,2023-08-21,2,33.1,1,1.5
+CUST00623,Elizabeth Silva,32,Female,33418.49,Phoenix,2024-12-30,0,13.6,1,2.7
+CUST00624,Sarah Davis,27,Female,66782.79,San Antonio,2021-03-09,3,74.0,1,3.3
+CUST00625,Linda Miller,41,Female,85336.26,Mumbai,2022-04-04,2,86.8,1,4.5
+CUST00626,Linda Thomas,59,Male,62156.77,Sydney,2022-02-02,3,26.5,1,3.5
+CUST00627,Charles Garcia,25,Male,15000.0,Toronto,2022-09-12,1,63.5,1,3.8
+CUST00628,James Nguyen,41,Other,94742.62,London,2024-08-02,1,17.0,1,3.4
+CUST00629,Joseph Smith,33,Male,69938.47,San Antonio,2024-03-09,0,54.3,1,4.7
+CUST00630,Hiro Martin,66,Other,94128.37,Delhi,2022-12-31,1,53.5,1,4.2
+CUST00631,James Moore,43,Female,76814.47,Sydney,2022-07-10,2,76.5,1,3.8
+CUST00632,Wei Johnson,44,Male,80810.31,Delhi,2023-02-20,2,23.6,1,2.7
+CUST00633,Susan Patel,54,Male,59105.34,Chicago,2023-06-13,3,63.3,1,3.8
+CUST00634,Linda Davis,21,Male,49754.08,San Antonio,2022-09-02,1,48.1,0,5.0
+CUST00635,Charles Miller,67,Female,62469.62,New York,2023-01-18,1,37.7,1,4.4
+CUST00636,Charles Garcia,41,Male,40824.3,Dallas,2021-10-09,0,6.6,0,3.0
+CUST00637,Jennifer Williams,36,Male,63677.62,Austin,2022-10-23,3,22.8,1,5.0
+CUST00638,Michael Perez,53,Male,15000.0,Bangalore,2023-07-13,0,24.5,0,3.0
+CUST00639,Linda Martinez,56,Male,55858.64,Philadelphia,2023-09-23,1,11.0,1,4.3
+CUST00640,Karen Moore,27,Female,81893.52,Sydney,2023-01-16,2,68.6,1,3.7
+CUST00641,Joseph Smith,42,Male,56886.17,Phoenix,2021-03-28,1,31.3,1,3.9
+CUST00642,Karen Miller,35,Female,89549.65,San Antonio,2024-01-08,0,25.2,1,3.9
+CUST00643,Liam Brown,36,Male,49725.09,Phoenix,2024-05-13,1,24.3,1,3.5
+CUST00644,Noah Garcia,53,Male,75053.02,Austin,2023-03-02,4,8.4,1,3.3
+CUST00645,Hiro Smith,27,Male,37434.6,Phoenix,2024-09-22,0,18.7,1,2.5
+CUST00646,Noah Jones,50,Male,74239.13,Sydney,2024-07-01,1,12.5,0,2.7
+CUST00647,Liam Nguyen,67,Other,59651.9,Mumbai,2021-10-31,2,36.3,1,4.0
+CUST00648,James Brown,22,Female,50604.99,Austin,2024-11-04,2,55.3,1,3.1
+CUST00649,Priya Johnson,64,Male,15000.0,Mumbai,2021-05-10,1,73.1,1,2.9
+CUST00650,Elizabeth Jones,66,Female,49912.46,San Antonio,2022-08-19,0,64.7,1,5.0
+CUST00651,Liam Martinez,52,Male,59269.06,Austin,2024-07-23,1,13.2,0,5.0
+CUST00652,James Kim,61,Male,71574.19,Toronto,2022-07-12,0,59.0,0,4.2
+CUST00653,Jennifer Taylor,51,Other,86219.0,San Antonio,2023-06-18,2,38.4,0,4.3
+CUST00654,Joseph Brown,50,Female,95700.65,Bangalore,2024-04-21,1,73.0,0,3.0
+CUST00655,Richard Khan,38,Other,79925.35,Mumbai,2024-07-15,1,16.5,1,2.6
+CUST00656,Karen Khan,34,Male,43758.19,Toronto,2024-09-07,2,58.7,1,3.4
+CUST00657,Joseph Davis,39,Female,48903.92,Chicago,2021-03-19,1,51.0,1,3.7
+CUST00658,Robert Moore,65,Male,69778.31,Chicago,2023-02-23,1,89.6,0,4.3
+CUST00659,Patricia Anderson,54,Male,65392.29,Austin,2024-09-24,1,37.3,0,2.1
+CUST00660,Richard Johnson,32,Female,87566.92,Delhi,2022-11-05,0,59.2,1,5.0
+CUST00661,Liam Perez,52,Male,104587.79,Bangalore,2021-08-26,2,81.3,1,3.9
+CUST00662,Charles Brown,45,Female,100343.6,Toronto,2024-03-03,2,28.4,0,2.3
+CUST00663,Patricia Wilson,24,Female,84878.76,Chicago,2024-04-30,1,23.9,1,3.8
+CUST00664,Liam Jones,49,Male,65558.05,Philadelphia,2024-10-11,2,53.2,0,2.9
+CUST00665,Karen Wilson,28,Female,81986.5,Delhi,2021-10-05,0,55.9,1,2.8
+CUST00666,Emma Martinez,27,Female,88228.82,Toronto,2023-11-08,2,60.8,1,2.7
+CUST00667,Linda Garcia,26,Male,52053.99,Philadelphia,2022-06-08,2,37.9,1,3.5
+CUST00668,Jennifer Davis,31,Female,44346.78,Bangalore,2021-06-29,2,57.4,1,5.0
+CUST00669,Wei Moore,30,Female,39651.58,Bangalore,2021-05-03,0,11.3,1,3.8
+CUST00670,Sofia Thomas,42,Male,37472.31,Chicago,2024-06-23,2,47.7,1,4.3
+CUST00671,David Anderson,19,Female,27360.09,Chicago,2024-10-28,1,71.2,0,4.5
+CUST00672,Sofia Taylor,52,Other,59998.03,San Diego,2023-12-11,1,57.7,1,3.6
+CUST00673,Linda Lee,24,Male,35004.94,San Diego,2023-12-31,1,61.3,0,2.7
+CUST00674,Hiro Smith,38,Female,39329.56,San Antonio,2022-04-25,2,19.8,1,2.3
+CUST00675,Joseph Davis,35,Male,69025.11,Austin,2023-11-09,0,90.6,0,3.4
+CUST00676,Olivia Wilson,20,Female,58632.18,Houston,2021-03-25,0,20.9,1,4.7
+CUST00677,Barbara Anderson,59,Female,63592.5,Toronto,2024-03-24,2,28.4,1,4.5
+CUST00678,Patricia Jackson,56,Male,82302.98,Houston,2022-07-19,1,24.5,1,3.9
+CUST00679,Patricia Jones,58,Male,72290.6,Chicago,2022-09-11,1,62.1,1,4.0
+CUST00680,Mei Jones,66,Female,85377.73,Phoenix,2021-12-23,0,22.1,0,3.6
+CUST00681,Linda Martinez,28,Male,56599.53,Chicago,2023-03-27,0,34.2,1,3.3
+CUST00682,Thomas Rodriguez,56,Female,87235.81,Bangalore,2022-10-09,2,41.0,1,3.0
+CUST00683,Priya Perez,41,Male,62194.74,San Diego,2022-03-19,0,33.4,0,2.4
+CUST00684,Noah Thomas,63,Female,58374.13,San Antonio,2023-12-29,0,48.5,1,5.0
+CUST00685,Linda Rodriguez,36,Female,84230.52,Sydney,2022-06-07,0,50.4,0,3.9
+CUST00686,Priya Wilson,21,Female,37556.93,Bangalore,2021-05-23,1,64.2,1,3.3
+CUST00687,Wei Smith,43,Male,95472.01,Chicago,2021-07-11,1,22.1,0,5.0
+CUST00688,Susan Jones,55,Female,49358.0,Sydney,2024-11-11,0,63.7,1,5.0
+CUST00689,Arjun Thomas,59,Female,30637.84,Dallas,2022-01-13,0,59.1,0,5.0
+CUST00690,Patricia Kim,49,Male,68070.04,Delhi,2022-08-04,0,18.1,1,3.5
+CUST00691,Wei Silva,56,Male,47453.57,London,2022-06-19,1,3.6,1,3.8
+CUST00692,James Kim,62,Male,95516.14,Bangalore,2024-08-09,1,60.2,1,4.3
+CUST00693,Wei Perez,63,Female,46341.98,Phoenix,2023-10-30,3,7.4,1,5.0
+CUST00694,Linda Moore,53,Female,61288.98,Dallas,2024-07-18,2,38.3,1,3.8
+CUST00695,Arjun Moore,57,Male,26488.13,San Antonio,2024-11-11,2,3.9,1,2.8
+CUST00696,William Patel,54,Female,71258.28,Toronto,2021-04-03,0,86.2,1,3.0
+CUST00697,William Martinez,50,Male,39452.2,San Antonio,2022-06-13,0,80.7,0,4.8
+CUST00698,Karen Silva,53,Male,68866.49,Philadelphia,2024-03-23,1,43.3,1,4.3
+CUST00699,Arjun Rodriguez,20,Other,46433.1,Los Angeles,2022-02-09,2,25.1,0,3.5
+CUST00700,John Thompson,26,Female,15000.0,Dallas,2023-04-20,2,31.8,1,3.5
+CUST00701,Hiro Wilson,25,Female,57623.8,Philadelphia,2024-03-18,4,19.2,1,3.5
+CUST00702,Jennifer Johnson,50,Male,56728.57,San Diego,2023-06-08,2,78.2,0,4.8
+CUST00703,Michael Lee,23,Female,72621.43,New York,2024-07-14,2,47.9,0,3.0
+CUST00704,Liam Johnson,58,Female,86120.01,Phoenix,2022-02-26,2,86.9,1,2.6
+CUST00705,Liam Martin,56,Male,93248.19,Delhi,2022-04-17,1,40.6,1,5.0
+CUST00706,David Anderson,21,Female,72283.08,New York,2023-06-12,0,36.8,1,3.7
+CUST00707,Liam Perez,30,Female,60572.38,Austin,2022-07-01,2,41.2,1,3.6
+CUST00708,Priya Khan,66,Female,26453.33,Mumbai,2022-09-23,2,44.0,1,4.3
+CUST00709,Hiro Miller,19,Male,59040.42,Sydney,2023-11-04,2,8.2,1,2.8
+CUST00710,Karen Garcia,22,Female,59298.8,London,2023-02-17,2,43.9,1,4.4
+CUST00711,Arjun Khan,61,Female,51027.19,San Diego,2021-12-30,0,28.9,1,3.4
+CUST00712,James Martin,44,Male,67659.35,San Diego,2021-04-29,2,86.4,0,4.7
+CUST00713,Noah Wilson,49,Female,77438.11,New York,2024-06-15,2,38.5,0,2.3
+CUST00714,Priya Lee,38,Female,38631.92,Dallas,2022-06-30,0,53.8,1,4.1
+CUST00715,Arjun Martin,25,Male,38320.31,Los Angeles,2024-04-07,1,43.7,1,3.5
+CUST00716,Michael Martin,55,Male,52214.16,Delhi,2022-06-06,0,31.2,1,3.1
+CUST00717,Karen Rodriguez,25,Female,42695.42,Dallas,2022-09-26,1,56.1,0,4.4
+CUST00718,Thomas Thompson,67,Female,22174.94,New York,2023-08-21,1,33.2,1,3.6
+CUST00719,Priya Kim,20,Female,35068.15,Delhi,2023-08-16,2,37.8,1,4.1
+CUST00720,Olivia Davis,61,Male,30353.58,Austin,2023-06-02,2,71.8,1,4.8
+CUST00721,Thomas Miller,20,Other,79169.01,London,2023-02-19,1,64.4,1,4.4
+CUST00722,James Taylor,39,Male,89056.54,Sydney,2023-05-21,0,23.1,1,2.7
+CUST00723,Emma Nguyen,23,Male,33091.33,London,2022-05-31,1,41.6,0,3.2
+CUST00724,Charles Khan,19,Female,65921.47,Dallas,2023-07-27,0,29.4,1,4.1
+CUST00725,Charles Martin,40,Male,72470.33,Houston,2024-11-21,1,17.4,1,4.4
+CUST00726,Richard Jackson,61,Male,25154.62,Dallas,2023-05-16,0,47.5,1,3.3
+CUST00727,Linda Perez,19,Male,58219.58,San Antonio,2021-04-16,0,17.8,1,3.9
+CUST00728,Sarah Smith,55,Male,105670.32,Mumbai,2024-01-14,2,52.0,1,3.9
+CUST00729,Susan Perez,34,Male,68542.94,Philadelphia,2021-08-02,4,54.0,1,4.0
+CUST00730,Joseph Lee,52,Other,50093.99,Toronto,2024-02-19,1,50.1,1,2.6
+CUST00731,Mary Kim,51,Male,43796.27,Phoenix,2024-03-01,0,51.4,0,2.4
+CUST00732,Olivia Martin,40,Female,15000.0,Mumbai,2023-04-30,0,66.7,0,1.7
+CUST00733,Sarah Garcia,47,Female,64409.47,Dallas,2021-07-16,2,59.9,1,3.8
+CUST00734,Charles Brown,69,Female,93956.34,Los Angeles,2021-01-19,0,75.3,0,2.5
+CUST00735,James Davis,25,Male,38729.12,London,2022-10-04,2,69.0,0,5.0
+CUST00736,Noah Nguyen,39,Female,16288.31,Bangalore,2023-11-02,5,24.1,1,4.3
+CUST00737,Michael Williams,61,Female,41715.52,Mumbai,2024-01-10,0,39.6,1,2.6
+CUST00738,Elizabeth Martinez,53,Female,72631.99,London,2021-11-26,1,34.6,1,4.7
+CUST00739,Charles Thomas,22,Female,46430.0,Delhi,2023-05-16,1,29.5,1,4.7
+CUST00740,Mary Smith,30,Female,38590.64,Los Angeles,2023-02-13,2,59.4,0,4.8
+CUST00741,Wei Nguyen,46,Male,55383.1,Mumbai,2022-01-27,2,60.8,1,3.0
+CUST00742,Olivia Lee,48,Female,59594.01,Delhi,2022-09-29,0,23.5,1,4.3
+CUST00743,Michael Davis,64,Female,27232.2,Toronto,2021-11-03,1,79.7,1,4.8
+CUST00744,James Silva,33,Female,50654.33,Dallas,2024-07-14,2,44.5,1,5.0
+CUST00745,Wei Williams,59,Other,45054.65,Delhi,2023-06-14,2,41.9,1,2.3
+CUST00746,Mei Nguyen,47,Male,42181.91,Chicago,2022-10-14,1,58.1,1,3.5
+CUST00747,Liam Davis,33,Other,34659.27,San Diego,2023-04-21,1,57.7,1,2.9
+CUST00748,Priya Silva,29,Male,73825.16,Mumbai,2023-10-23,2,44.0,0,5.0
+CUST00749,Joseph Jones,34,Male,42112.26,Sydney,2022-06-04,2,45.4,0,4.1
+CUST00750,John Perez,33,Male,15101.09,Toronto,2022-09-28,3,22.2,0,4.5
+CUST00751,James Moore,29,Male,60285.96,Dallas,2024-08-25,1,41.4,0,4.1
+CUST00752,Linda Johnson,25,Female,69503.99,San Diego,2023-01-10,2,4.6,0,4.0
+CUST00753,John Khan,37,Male,39079.68,Sydney,2022-04-14,0,77.1,1,2.9
+CUST00754,Susan Khan,20,Male,43806.75,Houston,2021-07-31,1,49.8,1,3.3
+CUST00755,Susan Wilson,33,Female,42018.93,Delhi,2024-02-10,1,69.0,1,3.8
+CUST00756,Jessica Brown,47,Female,48066.93,New York,2023-10-29,0,44.2,1,3.1
+CUST00757,Karen Jones,62,Female,77137.0,Houston,2023-03-15,2,3.8,1,3.0
+CUST00758,Priya Patel,40,Female,52718.82,London,2022-04-22,1,14.2,0,3.5
+CUST00759,Susan Nguyen,45,Female,71791.87,Dallas,2023-05-24,1,81.5,1,3.2
+CUST00760,Jessica Lee,68,Male,35623.37,Los Angeles,2022-04-05,2,20.6,1,3.7
+CUST00761,Michael Martinez,57,Male,47326.19,Sydney,2021-09-10,0,96.5,1,3.3
+CUST00762,Michael Smith,22,Female,74080.28,Chicago,2023-01-22,0,64.0,1,3.1
+CUST00763,Wei Patel,37,Male,38887.89,Austin,2023-09-08,2,19.5,0,2.9
+CUST00764,Charles Jackson,57,Female,75242.73,San Diego,2023-05-04,1,29.4,1,3.7
+CUST00765,Noah Perez,61,Male,42432.32,Philadelphia,2021-08-24,2,26.9,1,4.5
+CUST00766,Patricia Lee,18,Male,48566.75,Sydney,2024-08-22,1,28.5,1,4.3
+CUST00767,Mary Smith,47,Female,88403.25,San Diego,2022-04-23,3,42.0,0,2.3
+CUST00768,Joseph Jones,38,Female,46283.62,Sydney,2022-11-10,0,50.6,1,4.5
+CUST00769,Karen Wilson,37,Female,57906.92,San Antonio,2023-11-10,2,45.8,1,4.3
+CUST00770,Elizabeth Johnson,23,Female,67328.73,London,2021-08-04,3,14.7,0,4.5
+CUST00771,John Nguyen,39,Male,59530.17,Bangalore,2023-05-05,1,55.4,1,4.7
+CUST00772,Wei Anderson,35,Male,60101.07,Bangalore,2021-05-15,0,52.0,1,3.0
+CUST00773,Karen Jones,25,Female,53869.21,Phoenix,2023-06-24,2,59.8,1,3.4
+CUST00774,Robert Garcia,56,Female,28955.22,Dallas,2024-02-27,0,70.6,0,5.0
+CUST00775,Emma Rodriguez,49,Male,61965.79,Houston,2022-02-14,0,17.5,1,5.0
+CUST00776,Mary Patel,50,Female,40350.63,Philadelphia,2024-12-16,2,38.9,1,3.6
+CUST00777,Barbara Williams,33,Male,70515.34,Los Angeles,2024-08-10,2,19.3,1,4.2
+CUST00778,Karen Kim,29,Male,82441.23,Toronto,2024-06-23,0,11.7,1,4.3
+CUST00779,Barbara Khan,55,Male,18888.85,Los Angeles,2021-03-27,2,62.3,1,5.0
+CUST00780,Thomas Martinez,69,Female,82476.16,Los Angeles,2022-07-10,3,56.3,1,4.0
+CUST00781,Emma Khan,51,Female,46778.84,Austin,2024-10-30,1,64.5,1,2.6
+CUST00782,Liam Thomas,31,Male,52381.02,San Antonio,2022-01-13,3,56.1,1,3.3
+CUST00783,Wei Martin,53,Female,36752.25,Bangalore,2024-11-14,0,64.0,1,5.0
+CUST00784,Sarah Perez,50,Male,58769.35,Los Angeles,2023-12-11,0,41.6,1,2.6
+CUST00785,Thomas Thomas,40,Male,56336.3,Toronto,2021-08-30,1,31.0,1,3.7
+CUST00786,William Davis,67,Male,76538.46,Toronto,2024-08-10,1,23.2,1,5.0
+CUST00787,Mary Taylor,62,Male,40172.13,Delhi,2023-07-09,1,72.9,1,3.0
+CUST00788,Hiro Miller,19,Male,88216.05,Toronto,2021-09-23,2,83.4,0,1.2
+CUST00789,William Kim,58,Female,68294.28,Bangalore,2024-02-18,0,43.8,1,1.4
+CUST00790,Priya Wilson,38,Female,56819.38,Los Angeles,2022-12-13,0,41.9,1,3.0
+CUST00791,Susan Brown,19,Female,51384.31,Toronto,2024-06-25,1,66.0,1,2.1
+CUST00792,Sofia Taylor,44,Male,48868.61,Dallas,2021-03-11,3,61.7,1,4.6
+CUST00793,Mary Nguyen,26,Male,50173.12,San Antonio,2021-02-26,1,65.5,0,3.9
+CUST00794,Robert Wilson,18,Male,58368.04,Mumbai,2024-11-06,2,37.8,1,1.8
+CUST00795,Jennifer Lee,28,Male,50820.0,Chicago,2021-02-08,1,34.6,1,2.3
+CUST00796,Arjun Martinez,20,Female,42189.41,Chicago,2023-03-12,1,15.2,1,4.8
+CUST00797,Patricia Rodriguez,69,Male,58489.19,San Antonio,2023-11-08,2,70.9,1,3.9
+CUST00798,Jennifer Johnson,40,Female,38274.24,Phoenix,2023-01-02,2,8.2,1,5.0
+CUST00799,Thomas Jones,43,Female,61449.34,Austin,2023-04-05,3,37.5,1,4.7
+CUST00800,Hiro Garcia,21,Male,50538.66,London,2023-01-26,0,17.4,0,2.7
+CUST00801,Sofia Anderson,35,Female,68934.62,London,2021-12-18,3,56.5,0,4.5
+CUST00802,Wei Patel,23,Female,74781.48,Philadelphia,2024-08-14,0,33.5,1,4.2
+CUST00803,Elizabeth Kim,52,Female,74773.61,Bangalore,2021-10-10,1,59.9,1,1.9
+CUST00804,Arjun Silva,39,Female,61362.1,Delhi,2021-04-20,0,52.2,0,2.5
+CUST00805,Jennifer Davis,60,Male,63696.62,San Diego,2023-10-14,2,2.3,1,5.0
+CUST00806,Mary Anderson,32,Male,48544.98,Dallas,2024-04-18,1,89.6,1,2.9
+CUST00807,Richard Silva,39,Male,68552.79,New York,2022-06-28,2,50.1,0,4.1
+CUST00808,Arjun Miller,54,Male,70810.03,Chicago,2021-01-25,1,45.9,1,3.5
+CUST00809,Elizabeth Taylor,69,Female,23653.42,Mumbai,2023-04-23,2,52.6,1,3.9
+CUST00810,Thomas Patel,59,Male,62566.94,San Antonio,2023-03-02,1,32.6,1,3.6
+CUST00811,Olivia Thomas,29,Female,82362.6,Philadelphia,2023-01-08,2,40.2,1,4.6
+CUST00812,Mary Kim,64,Female,47874.19,San Antonio,2021-02-26,2,43.4,0,4.5
+CUST00813,David Smith,66,Male,43509.06,San Diego,2021-06-29,1,52.4,1,3.8
+CUST00814,Charles Patel,59,Male,46602.73,Philadelphia,2021-08-20,1,59.7,0,2.9
+CUST00815,Patricia Perez,55,Female,24902.48,Chicago,2021-12-09,1,82.2,1,3.2
+CUST00816,Sofia Patel,35,Female,57519.68,Los Angeles,2022-04-22,1,78.7,1,2.3
+CUST00817,David Davis,62,Female,55599.31,Delhi,2022-07-30,1,23.4,1,3.4
+CUST00818,David Brown,52,Male,58940.54,San Antonio,2022-03-31,0,51.0,1,2.1
+CUST00819,Thomas Miller,47,Male,63319.53,Delhi,2024-06-09,0,23.4,1,3.9
+CUST00820,Linda Williams,41,Male,39040.13,Delhi,2021-10-16,2,61.8,1,4.0
+CUST00821,Priya Johnson,59,Male,60463.98,Delhi,2024-05-21,0,93.1,0,4.6
+CUST00822,Wei Moore,47,Female,63863.97,Mumbai,2021-09-15,1,9.3,0,2.6
+CUST00823,Mei Kim,31,Female,45232.17,New York,2022-06-14,1,93.0,1,2.7
+CUST00824,Priya Jones,23,Female,63402.36,Chicago,2022-11-18,1,49.3,1,5.0
+CUST00825,Mei Smith,20,Female,56614.13,Delhi,2023-07-18,2,81.4,0,2.5
+CUST00826,Sofia Brown,33,Female,42376.2,Mumbai,2021-08-17,0,40.4,1,5.0
+CUST00827,Joseph Thompson,24,Male,60655.77,Houston,2024-06-03,2,54.1,1,2.9
+CUST00828,Charles Williams,69,Male,49185.79,Bangalore,2022-08-19,0,65.3,0,2.9
+CUST00829,Karen Wilson,31,Female,68941.31,London,2022-03-11,1,52.1,1,4.5
+CUST00830,Thomas Taylor,26,Male,50216.67,New York,2023-06-01,1,61.3,1,4.2
+CUST00831,David Johnson,32,Female,29204.69,Phoenix,2023-10-18,3,53.1,1,5.0
+CUST00832,William Johnson,38,Female,60339.74,Austin,2022-02-06,1,72.6,1,2.0
+CUST00833,Arjun Rodriguez,52,Male,59588.06,Chicago,2022-09-14,1,60.9,1,4.2
+CUST00834,William Davis,19,Female,33377.26,Los Angeles,2021-03-29,0,33.9,1,3.7
+CUST00835,Thomas Smith,44,Female,70010.72,Toronto,2022-08-07,1,53.0,0,2.7
+CUST00836,Hiro Wilson,19,Female,68964.42,Chicago,2021-11-05,3,9.6,1,5.0
+CUST00837,Linda Martinez,52,Female,37600.4,San Diego,2023-06-25,2,34.0,1,3.9
+CUST00838,Hiro Miller,35,Female,41807.47,Sydney,2021-12-09,1,96.8,1,3.6
+CUST00839,John Williams,31,Male,52159.85,Philadelphia,2022-03-12,2,81.9,0,4.1
+CUST00840,Sarah Jones,37,Male,39822.96,Bangalore,2021-06-26,1,58.9,0,2.1
+CUST00841,Barbara Anderson,35,Female,67807.94,London,2021-05-19,1,64.8,0,2.6
+CUST00842,Charles Garcia,27,Female,57979.44,San Antonio,2021-07-13,0,72.6,1,3.4
+CUST00843,Mary Anderson,42,Male,33128.86,Delhi,2024-04-24,1,74.1,0,4.0
+CUST00844,Charles Jones,19,Male,38550.58,Philadelphia,2024-05-26,1,19.3,1,4.8
+CUST00845,Barbara Martin,42,Female,78754.38,Philadelphia,2024-04-02,1,12.7,1,2.9
+CUST00846,Noah Martin,50,Female,85711.25,Sydney,2024-03-30,2,66.7,1,2.7
+CUST00847,Elizabeth Silva,53,Female,65774.58,Delhi,2023-08-01,0,59.9,1,4.2
+CUST00848,Wei Martin,48,Female,50774.49,Sydney,2022-06-09,1,42.8,0,3.6
+CUST00849,Joseph Anderson,31,Male,46200.74,Chicago,2023-12-02,1,53.5,1,2.0
+CUST00850,Emma Jackson,18,Male,65993.99,Delhi,2023-07-04,3,79.8,1,2.9
+CUST00851,Mei Perez,63,Female,56518.41,Bangalore,2021-07-29,0,69.8,1,3.5
+CUST00852,Linda Patel,33,Male,22798.57,London,2023-01-11,1,17.7,1,3.6
+CUST00853,Thomas Nguyen,63,Male,75637.36,San Diego,2023-05-12,0,48.9,1,3.8
+CUST00854,Robert Kim,69,Male,81916.07,Delhi,2024-07-22,0,38.6,1,2.5
+CUST00855,Jessica Garcia,20,Female,69745.05,San Antonio,2023-08-12,2,42.2,1,3.6
+CUST00856,Linda Silva,52,Female,33167.78,San Antonio,2024-07-26,0,45.5,1,4.6
+CUST00857,Sarah Silva,58,Male,42263.47,Philadelphia,2024-06-28,3,57.8,0,1.1
+CUST00858,Barbara Moore,23,Male,17845.6,Phoenix,2024-08-26,0,23.2,0,3.4
+CUST00859,Liam Rodriguez,42,Female,86920.97,Austin,2023-04-13,1,52.5,0,2.2
+CUST00860,Richard Moore,30,Other,47865.23,San Diego,2021-05-20,2,53.9,0,3.7
+CUST00861,Elizabeth Jackson,51,Male,101665.79,Phoenix,2023-03-03,4,72.5,1,2.3
+CUST00862,Michael Martin,25,Female,94104.6,Dallas,2022-06-30,1,88.7,0,3.8
+CUST00863,Wei Patel,38,Male,36931.47,Dallas,2023-10-14,3,48.1,1,5.0
+CUST00864,Priya Miller,51,Female,40834.65,New York,2021-02-26,0,74.5,0,2.8
+CUST00865,Susan Moore,21,Male,64323.81,Philadelphia,2021-04-22,0,13.1,1,2.9
+CUST00866,Arjun Miller,42,Male,19909.16,San Antonio,2021-01-05,1,33.5,0,3.3
+CUST00867,William Perez,32,Female,46234.82,Chicago,2024-12-04,1,44.8,1,4.0
+CUST00868,Jessica Davis,21,Female,44236.82,Sydney,2024-12-08,1,28.6,1,2.8
+CUST00869,Sarah Nguyen,62,Male,92023.32,San Antonio,2024-04-20,1,42.7,1,3.4
+CUST00870,Noah Lee,29,Female,58220.36,Mumbai,2023-11-03,2,81.0,1,3.1
+CUST00871,Emma Thompson,49,Male,49304.66,Mumbai,2024-09-24,1,38.9,0,3.3
+CUST00872,Michael Williams,49,Female,42370.31,San Antonio,2024-07-06,1,40.4,1,4.0
+CUST00873,Sarah Martinez,45,Male,72880.99,Sydney,2021-03-31,1,75.0,1,4.2
+CUST00874,Michael Martin,30,Female,45065.78,London,2022-09-08,3,54.6,0,2.4
+CUST00875,Susan Khan,48,Male,53994.34,Bangalore,2023-06-10,1,38.5,1,4.0
+CUST00876,John Anderson,31,Female,42217.53,Mumbai,2022-11-29,1,84.3,1,5.0
+CUST00877,Olivia Taylor,37,Female,24649.26,Los Angeles,2024-06-27,4,61.4,1,5.0
+CUST00878,Mary Williams,35,Female,35079.3,San Antonio,2024-07-02,1,51.8,1,3.1
+CUST00879,Robert Wilson,46,Female,44960.57,Toronto,2023-06-17,3,5.0,0,3.8
+CUST00880,Linda Nguyen,23,Female,49734.9,New York,2023-08-29,0,62.4,0,3.7
+CUST00881,Wei Anderson,49,Male,50611.52,Phoenix,2024-02-06,1,15.3,0,4.1
+CUST00882,Michael Moore,46,Male,53221.61,Dallas,2022-10-30,0,39.1,1,3.3
+CUST00883,Mei Martin,60,Female,45226.25,San Antonio,2022-08-17,0,28.7,1,3.5
+CUST00884,Patricia Kim,19,Male,81982.53,San Antonio,2022-08-12,2,80.2,1,3.0
+CUST00885,Hiro Taylor,40,Female,73959.68,Mumbai,2022-04-30,1,8.2,0,4.7
+CUST00886,Sarah Smith,36,Other,52297.81,Bangalore,2023-09-09,0,45.2,1,4.0
+CUST00887,Jessica Taylor,48,Male,60085.17,Delhi,2023-08-30,1,27.0,1,4.0
+CUST00888,Elizabeth Anderson,68,Female,47558.24,Los Angeles,2024-07-05,2,32.2,1,4.8
+CUST00889,Emma Johnson,22,Male,15000.0,San Diego,2022-10-01,2,26.8,1,4.8
+CUST00890,Wei Williams,36,Female,55409.86,Chicago,2023-09-24,1,67.3,0,4.6
+CUST00891,Elizabeth Johnson,51,Male,61112.29,Toronto,2021-10-09,2,86.6,1,4.8
+CUST00892,Emma Nguyen,27,Male,22746.76,San Diego,2023-09-13,1,36.7,1,5.0
+CUST00893,Richard Taylor,42,Female,64988.22,Chicago,2024-01-17,0,29.3,1,2.8
+CUST00894,Sarah Williams,19,Female,49388.47,Austin,2024-05-12,2,66.6,0,3.4
+CUST00895,Liam Miller,28,Female,61758.67,San Antonio,2021-01-16,1,38.2,1,4.3
+CUST00896,Susan Thompson,67,Female,49992.03,Los Angeles,2024-03-20,1,62.8,1,2.9
+CUST00897,Noah Martin,48,Male,80019.09,Sydney,2023-07-25,1,49.9,1,3.4
+CUST00898,Noah Patel,32,Female,59524.58,Houston,2021-09-11,1,24.4,1,3.9
+CUST00899,Barbara Silva,26,Male,75048.33,Mumbai,2024-04-26,0,42.0,0,3.5
+CUST00900,Jessica Khan,40,Female,76694.52,Philadelphia,2021-11-25,0,21.0,1,3.8
+CUST00901,Barbara Moore,36,Female,32608.89,Mumbai,2022-06-28,0,30.8,0,2.7
+CUST00902,Hiro Martinez,26,Female,40219.66,Dallas,2023-02-22,1,32.3,1,3.7
+CUST00903,Emma Silva,52,Female,64032.21,Phoenix,2023-09-24,4,89.4,0,3.8
+CUST00904,Michael Thompson,38,Male,47689.25,Bangalore,2024-11-21,0,35.7,0,5.0
+CUST00905,Robert Smith,26,Female,50227.86,Dallas,2024-09-15,1,76.9,1,3.5
+CUST00906,Emma Martin,45,Male,80731.3,Toronto,2023-04-25,3,90.7,1,3.1
+CUST00907,John Taylor,63,Female,48792.67,Phoenix,2024-04-07,1,39.6,1,4.3
+CUST00908,Susan Khan,68,Male,35621.41,Austin,2022-01-01,1,60.4,1,1.0
+CUST00909,Emma Lee,24,Female,38324.0,San Diego,2024-04-16,3,49.4,1,3.4
+CUST00910,Patricia Lee,33,Female,98647.13,Sydney,2022-10-17,1,44.6,1,3.2
+CUST00911,Emma Jones,33,Male,51435.61,Bangalore,2024-10-17,2,40.9,0,3.9
+CUST00912,Hiro Jackson,50,Male,27715.04,Bangalore,2023-01-30,0,41.1,1,4.8
+CUST00913,James Patel,21,Female,19610.83,New York,2022-10-01,0,15.5,0,5.0
+CUST00914,Susan Moore,21,Male,42507.27,San Antonio,2023-11-30,0,60.2,1,3.9
+CUST00915,William Moore,56,Male,51069.56,Houston,2023-07-13,2,39.9,1,2.3
+CUST00916,Thomas Silva,57,Male,73983.47,Phoenix,2022-02-20,2,40.4,0,3.2
+CUST00917,Mei Brown,34,Male,72046.9,Philadelphia,2024-10-10,2,29.0,1,3.3
+CUST00918,Barbara Jones,54,Female,54873.07,Phoenix,2021-09-12,1,59.9,1,4.0
+CUST00919,Noah Jones,56,Female,45916.63,Delhi,2024-03-12,0,71.7,0,3.8
+CUST00920,David Garcia,69,Male,61792.04,New York,2022-12-11,1,12.4,0,3.1
+CUST00921,Michael Khan,46,Male,20025.08,Delhi,2022-07-31,2,75.1,1,2.6
+CUST00922,Susan Khan,69,Male,94621.62,Dallas,2023-06-19,1,18.3,1,2.9
+CUST00923,David Taylor,53,Male,68082.11,Los Angeles,2021-01-11,3,29.4,1,2.9
+CUST00924,Mary Silva,55,Male,72339.8,Dallas,2021-01-26,3,62.7,1,5.0
+CUST00925,Michael Thompson,56,Male,33516.93,Austin,2023-08-15,1,71.8,1,3.0
+CUST00926,Patricia Davis,67,Male,80652.97,Los Angeles,2022-02-25,0,65.9,1,3.8
+CUST00927,Karen Kim,54,Female,45799.66,Dallas,2024-05-29,1,44.8,1,4.6
+CUST00928,Arjun Perez,69,Male,35948.84,Philadelphia,2022-05-11,3,57.2,0,3.9
+CUST00929,Richard Thomas,52,Female,54216.55,Mumbai,2024-06-14,0,70.1,0,2.7
+CUST00930,Elizabeth Wilson,24,Female,53748.9,Dallas,2021-08-25,4,40.9,1,4.6
+CUST00931,Mary Silva,44,Female,33429.26,Bangalore,2023-10-06,2,81.6,1,4.0
+CUST00932,Sofia Rodriguez,45,Female,37101.25,Philadelphia,2021-08-07,1,58.0,1,1.7
+CUST00933,Thomas Williams,39,Female,35535.36,Philadelphia,2022-04-06,0,63.8,1,4.8
+CUST00934,Mei Garcia,31,Female,35725.7,Bangalore,2022-10-25,1,72.5,1,4.5
+CUST00935,Robert Jones,24,Female,47238.04,Mumbai,2022-09-27,1,65.3,1,4.0
+CUST00936,Priya Moore,54,Female,27220.3,London,2024-03-13,0,33.7,1,5.0
+CUST00937,Wei Martin,39,Female,41172.51,Los Angeles,2023-09-17,0,42.3,0,4.5
+CUST00938,William Williams,22,Female,75902.69,San Diego,2021-07-08,0,72.6,0,4.7
+CUST00939,Karen Martin,19,Male,71466.19,Chicago,2021-09-12,0,29.9,0,4.6
+CUST00940,Noah Martinez,44,Male,34002.42,San Antonio,2021-03-09,1,84.9,1,4.4
+CUST00941,John Lee,38,Male,74164.1,Phoenix,2022-09-08,3,66.7,1,2.1
+CUST00942,Sarah Martin,55,Female,15671.21,Chicago,2021-12-02,0,16.9,1,2.2
+CUST00943,Mei Williams,32,Female,103582.89,New York,2022-11-02,5,59.2,0,4.5
+CUST00944,John Garcia,38,Female,81006.26,San Diego,2023-04-01,1,71.6,1,4.8
+CUST00945,Richard Khan,27,Female,43805.36,Chicago,2023-05-24,2,24.6,1,3.1
+CUST00946,Noah Moore,40,Male,62648.53,Los Angeles,2024-12-03,3,35.4,1,2.7
+CUST00947,Hiro Rodriguez,56,Male,26981.61,Sydney,2021-10-27,2,45.3,1,3.9
+CUST00948,Patricia Thomas,22,Female,56208.86,New York,2021-12-23,1,34.8,1,2.4
+CUST00949,Robert Johnson,18,Female,51326.74,Houston,2021-09-13,1,42.0,1,3.5
+CUST00950,David Rodriguez,30,Other,38304.73,Bangalore,2023-10-05,0,40.6,1,3.4
+CUST00951,Mei Williams,38,Male,45628.85,San Diego,2021-12-19,0,55.0,1,3.5
+CUST00952,Liam Rodriguez,43,Female,43660.25,Bangalore,2022-06-08,2,38.8,1,5.0
+CUST00953,John Silva,67,Female,32365.27,Chicago,2023-08-08,0,31.4,1,3.1
+CUST00954,Mary Anderson,62,Female,37837.06,London,2023-01-26,2,50.6,0,3.7
+CUST00955,Elizabeth Rodriguez,38,Female,26163.11,New York,2021-10-11,0,43.7,1,2.5
+CUST00956,Joseph Davis,35,Female,72146.62,Houston,2024-08-28,3,42.4,1,4.5
+CUST00957,Hiro Jones,54,Male,36357.75,Dallas,2021-04-09,1,78.0,1,3.5
+CUST00958,David Johnson,62,Female,30559.58,Bangalore,2021-07-16,0,48.5,0,4.8
+CUST00959,Mei Moore,49,Female,71830.09,New York,2022-04-27,1,29.1,1,1.5
+CUST00960,Jennifer Davis,53,Female,62392.41,Delhi,2023-05-28,0,80.4,1,3.6
+CUST00961,Liam Jones,34,Female,71090.02,London,2024-06-03,3,28.8,1,3.8
+CUST00962,Jessica Lee,52,Male,73321.66,Mumbai,2022-09-07,0,29.6,1,4.5
+CUST00963,Jennifer Jones,66,Male,93749.1,Los Angeles,2022-09-10,2,39.0,1,3.1
+CUST00964,Olivia Jackson,28,Other,51879.2,Dallas,2024-10-20,0,40.0,1,4.4
+CUST00965,Richard Jones,38,Female,25847.85,Sydney,2022-01-03,0,53.6,0,3.2
+CUST00966,Richard Martin,69,Female,60420.76,Los Angeles,2022-07-24,3,46.2,0,3.8
+CUST00967,Sarah Davis,43,Male,41619.91,Bangalore,2022-08-13,1,56.7,0,4.5
+CUST00968,Richard Perez,21,Female,35849.89,Chicago,2024-01-04,2,22.4,1,2.9
+CUST00969,Sofia Williams,51,Female,56998.5,San Antonio,2023-12-02,1,87.2,0,4.4
+CUST00970,Mei Davis,69,Female,72315.05,Chicago,2022-02-26,0,26.4,1,4.0
+CUST00971,Mary Davis,65,Male,38280.1,Dallas,2023-04-16,3,88.7,1,3.4
+CUST00972,Liam Taylor,35,Female,80487.76,Sydney,2024-04-19,1,5.5,0,3.1
+CUST00973,Richard Smith,57,Female,35207.72,Philadelphia,2022-06-29,0,63.5,1,1.8
+CUST00974,Jennifer Khan,52,Male,50121.94,Chicago,2021-03-12,1,49.8,1,3.6
+CUST00975,Charles Jackson,58,Female,62726.16,Dallas,2024-02-03,1,74.0,1,3.4
+CUST00976,Linda Smith,46,Female,47242.02,New York,2024-05-08,2,12.1,1,4.3
+CUST00977,Liam Jackson,69,Female,19479.95,Austin,2024-01-30,0,12.0,0,4.2
+CUST00978,William Taylor,46,Female,73548.15,Chicago,2023-02-07,1,69.2,1,4.7
+CUST00979,David Taylor,55,Male,42530.71,New York,2021-11-03,0,51.3,1,4.7
+CUST00980,Hiro Patel,59,Male,69897.97,Los Angeles,2022-01-12,1,55.2,1,5.0
+CUST00981,Elizabeth Brown,38,Male,29717.12,Sydney,2022-10-17,2,60.8,0,4.2
+CUST00982,Liam Garcia,59,Male,33131.27,Delhi,2022-11-09,2,63.1,1,2.9
+CUST00983,Olivia Miller,30,Female,72248.67,San Diego,2022-02-03,1,74.4,1,4.4
+CUST00984,Robert Wilson,66,Male,61810.16,San Antonio,2021-08-09,0,67.2,0,5.0
+CUST00985,Richard Silva,58,Female,46228.29,Los Angeles,2021-07-01,0,88.2,1,4.1
+CUST00986,Charles Nguyen,34,Other,62100.63,Los Angeles,2021-11-03,1,49.5,1,1.8
+CUST00987,Elizabeth Martinez,26,Female,35919.22,Dallas,2022-06-06,2,70.2,0,4.2
+CUST00988,David Patel,58,Female,57205.18,Bangalore,2024-11-20,3,62.3,1,3.1
+CUST00989,Emma Miller,18,Female,57571.08,Bangalore,2023-10-11,0,50.3,0,2.5
+CUST00990,Sarah Brown,19,Female,47524.37,Philadelphia,2021-01-04,1,72.9,1,3.9
+CUST00991,Mary Thomas,65,Male,38294.29,Phoenix,2023-05-13,1,32.8,0,2.3
+CUST00992,Richard Anderson,46,Male,56404.97,Austin,2023-04-28,0,26.2,0,4.6
+CUST00993,Michael Johnson,50,Female,53900.38,Philadelphia,2023-03-15,0,15.4,1,4.4
+CUST00994,Richard Thomas,27,Female,45683.56,Sydney,2024-07-28,2,91.6,1,3.6
+CUST00995,Liam Martin,67,Female,34323.71,Dallas,2021-08-03,1,15.3,0,3.2
+CUST00996,William Martin,57,Female,55249.54,Sydney,2023-08-30,0,94.1,1,3.5
+CUST00997,Linda Johnson,38,Female,45733.55,Mumbai,2024-12-14,1,81.2,1,2.8
+CUST00998,Olivia Khan,45,Male,34306.85,San Antonio,2021-04-11,1,60.1,1,3.6
+CUST00999,Richard Williams,28,Other,55870.6,Toronto,2023-08-21,1,58.3,0,1.1
+CUST01000,Jessica Garcia,51,Female,87166.11,Austin,2022-07-27,1,49.6,0,3.8
