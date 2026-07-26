@@ -1,0 +1,8 @@
+{
+  "smtp_host": "smtp.gmail.com",
+  "smtp_port": 587,
+  "sender_email": "vasu72424@gmail.com",
+  "sender_password": "rebrqeleblqtuhlp",
+  "recipient_email": "srinivasupakkurthi2@gmail.com",
+  "alerts_enabled": true
+}
